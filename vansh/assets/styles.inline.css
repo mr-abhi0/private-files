@@ -1,0 +1,58 @@
+.sctag{
+    display: inline-block;
+}
+
+.sctag p,
+p.no-m{
+    margin: 0px !important;
+}
+
+   /* салатовый */
+.lime_inline {
+    background: 10px 10px rgb(232, 242, 216);
+    padding: 5px;
+    margin: 5px 0;
+    color: #000000;
+}
+
+.orange_inline {
+background:10px 10px #ffc966;padding:15px;margin:10px 0; color:#000;}
+
+ /* фиолетовый */
+.purple_inline {
+    background: 10px 10px rgba(160, 55, 214, 0.22);
+    padding: 5px;
+    margin: 5px 0;
+    color: #000000;
+}
+
+.green_inline {
+padding:15px;margin:5px 0;color:#000;background:rgba(77,182,168,.4)
+}
+
+.blue_inline {
+padding: 15px;background:#e1edf7;padding:15px 20px 15px 10px;margin:10px 0}
+
+
+.yellow_inline {
+    margin: 5px 0;
+    border: 1px solid #fee142;
+padding: 5px;
+    line-height: 20px;
+    background: rgba(255, 255,204, .9);
+}
+
+.red_inline{
+background-color: #e5684b;color: #fff;padding: 5px;margin:5px 0;
+}
+
+.redborder_inline{
+    padding: 5px;border:2px dotted red;border-radius:5px;margin:5px 0
+}
+
+.blackborder_inline{
+    margin: 5px 0;
+    border: 2px dotted #000;
+    padding: 15px;
+    line-height: 20px;
+    border-radius: 7px;}

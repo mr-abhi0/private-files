@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <script type="text/javascript" src="assets/js/jquery-1.12.4.min.js"></script>
+    <style>
+        .ac_footer {
+            position: relative;
+            text-align: center;
+            overflow: hidden;
+            padding: 50px 0;
+            color: #A12000;
+        }
+        
+        .ac_footer a {
+            color: #A12000;
+        }
+        
+        .ac_footer p {
+            text-align: center;
+        }
+        
+        img[height="1"],
+        img[width="1"] {
+            display: none !important;
+        }
+    </style>
+    <!--retarget-->
+
+    <!--retarget-->
+
+
+
+    <!-- <script type="text/javascript" src="assets/js/12.min.js"></script> -->
+
+
+    <!-- optimizations -->
+
+
+    <!---->
+
+
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="ie=edge" http-equiv="X-UA-Compatible" />
+    <link href="assets/css/style.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Palanquin+Dark:400,500,700&amp;display=swap&amp;subset=devanagari" rel="stylesheet" />
+    <title>Kohinoor Gold</title>
+</head>
+
+<body data-lang="hi">
+    <!--retarget-->
+
+    <!--retarget-->
+
+    <div class="s__main">
+        <header class="header">
+            <div class="wrapper">
+                <div class="header__card clearfix">
+                    <h1 class="header__title">Kohinoor Gold</h1>
+                    <div class="clearfix">
+                        <div class="header__block header__block--left clearfix">
+                            <div class="header__txt-wrapper">
+                                <p class="header__txt">Kohinoor Gold के साथ, आपका लिंग आपकी कल्पना से भी अधिक बड़ा हो सकता है
+                                </p>
+                            </div>
+                            <a href="#OrderForm"><img alt="" class="header__prod" src="assets/img/prod.png" /></a>
+                            <a href="#OrderForm"><img alt="" class="header__stamp-img" src="assets/img/label1.png" /></a>
+                            <a href="#OrderForm"> <img alt="" class="header__img border" src="assets/img/pic0.jpg" /></a>
+                        </div>
+                        <div class="header__block header__block--right">
+                            <p class="header__block-title">क्या आप जानते हैं कि किसी भी पुरुष का लिंग 20 सेमी या अधिक बड़ा हो सकता है?
+                            </p>
+                            <ul class="header__list">
+                                <!--
+                <li class="header__item"><span>एक महीने में 4.5 सेमी तक लिंगवृद्धि</span></li>
+                -->
+                                <li class="header__item"><span>तुरंत इरेक्शन</span></li>
+                                <li class="header__item"><span>यौन संबंध के समय में 3 घंटे तक की वृद्धि</span></li>
+                                <li class="header__item"><span>जोड़ी के लिए बहुत ज़बरदस्त कामोन्माद</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="header__btn-wrapper">
+                        <div class="header__btn-wrapper2">
+                            <a class="header__btn btn btnlink" href="#">अभी ऑर्डर कीजिए</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="header__bottom-block clearfix">
+                    <img alt="" class="header__doc-img border" src="assets/img/pic1.jpg" />
+                    <div class="header__doc-info-wrapper">
+                        <span class="header__doc-name">डॉ. पंकज त्रिवेदी</span>
+                        <span class="header__doc-info">एंड्रोलॉजिस्ट / सेक्सोलॉजिस्ट</span>
+                    </div>
+                    <div class="header__doc-txt-wrapper">
+                        <p class="header__doc-txt">वैज्ञानिकों द्वारा किए गए आधुनिक विकास घर पर लिंग का आकार बढ़ाने की सुविधा देते हैं। अब किसी तरह की सर्जरी या हानिकारक उपचार की ज़रूरत नहीं। <span>Kohinoor Gold</span> का फॉर्मूला स्वास्थ्य के बिल्कुल अनुकूल है। </p>
+                        <p class="header__doc-txt">आपका लिंग केवल दो सप्ताह में 2,5 -3 सेमी बढ़ जाएगा, कामोन्माद बहुत अधिक तीव्र हो जाएगा और संभोग की अवधि 3 घंटे तक बढ़ जाएगी।</p>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <main class="main">
+            <section class="advantages">
+                <div class="advantages__txt-wrapper">
+                    <p class="advantages__txt wrapper">लिंग में गारंटी से वृद्धि के लिए Kohinoor Gold का व्यवस्थित ढंग से उपयोग ज़रूरी है।</p>
+                </div>
+                <div class="wrapper">
+                    <h2 class="advantages__title">Kohinoor Gold के फायदे</h2>
+                    <ul class="advantages__list clearfix">
+                        <!--
+            <li class="advantages__item clearfix">
+              <div class="advantages__item-txt-wrapper">
+                <p class="advantages__item-txt">यह सिर्फ लिंग की लंबाई नहीं बढ़ाता, बल्कि उसे मोटाई में भी
+                  बढ़ाता है</p>
+              </div>
+            </li>
+            <li class="advantages__item clearfix">
+              <div class="advantages__item-txt-wrapper">
+                <p class="advantages__item-txt">स्तंभन शक्ति से जुड़ी समस्याओं को दूर करता है, कामेच्छा बढ़ाता
+                  है</p>
+              </div>
+            </li>
+          -->
+                        <li class="advantages__item clearfix">
+                            <div class="advantages__item-txt-wrapper">
+                                <p class="advantages__item-txt">100% प्राकृतिक फॉर्मूला है</p>
+                            </div>
+                        </li>
+                        <li class="advantages__item clearfix">
+                            <div class="advantages__item-txt-wrapper">
+                                <p class="advantages__item-txt">किसी तरह की एलर्जी की प्रतिक्रियाएँ नहीं होतीं</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <section class="promo">
+                <div class="wrapper clearfix">
+                    <a href="#OrderForm"> <img alt="" class="promo__prod-img" src="assets/img/prod.png" /></a>
+                    <div class="promo__right-block">
+                        <p class="promo__txt">कामोन्माद के पारम्परिक विचार के बारे में भूल जाइए। Kohinoor Gold के साथ अद्भुत आनंद का अनुभव होगा।</p>
+                        <a class="promo__btn btn btnlink" href="#">अभी ऑर्डर कीजिए</a>
+                    </div>
+                </div>
+            </section>
+            <section class="info">
+                <div class="wrapper">
+                    <a href="#OrderForm"> <img alt="" class="info__img info__img--left border" src="assets/img/pic6.jpg" /></a>
+                    <a href="#OrderForm"> <img alt="" class="info__img info__img--right border" src="assets/img/pic7.jpg" />
+                    </a>
+                    <p class="info__txt info__txt--title lightblue">Kohinoor Gold</p>
+                    <p class="info__txt info__txt--notitle">का अभी कोई उच्च गुणवत्ता अनुरूप नहीं है।</p>
+                </div>
+            </section>
+            <section class="effect">
+                <div class="wrapper clearfix">
+                    <div class="effect__txt-wrapper">
+                        <p class="effect__txt">पहले ही उपयोग के बाद स्पष्ट प्रभाव दिखाई देते हैं।</p>
+                    </div>
+                </div>
+            </section>
+            <section class="order">
+                <div class="wrapper">
+                    <div class="order__card clearfix">
+                        <h2 class="order__title">Kohinoor Gold </h2>
+                        <h2 class="order__subtitle">मजे और जोरदार सेक्स की दुनिया की आपकी कुंजी है</h2>
+                        <div class="order__block-wrapper clearfix">
+                            <h3 class="order__promo-txt">
+                                <span>अभी ऑर्डर कीजिए:</span>
+                            </h3>
+                            <div class="order__block order__block--left clearfix">
+                                <a href="#OrderForm"> <img alt="" class="order__img border" src="assets/img/pic8.jpg" /></a>
+                                <a href="#OrderForm"> <img alt="" class="order__prod-img" src="assets/img/prod.png" /></a>
+                                <div class="order__price-block">
+                                    <div class="order__price-block-back">
+                                        <span class="price-block__price price-block__price--line-through">20% OFF</span>
+                                        <span class="price-block__price price-block__price--new-price">50% OFF</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <form action="" enctype="multipart/form-data" id="OrderForm" class="order__form form" method="POST">
+                                <div class="form__input-wrapper">
+                                    <input class="form__element form__element--input" value="" name="userName" placeholder="नाम" type="text" />
+                                    <input class="form__element form__element--last form__element--input only_number" value="" name="subject" placeholder="फोन नंबर" type="text" />
+                                    <select class="form__element form__element--input"  name="userEmail" placeholder="पता" type="text" >
+                                   <option value="30 capsule"> 30 capsule</option>
+                                   <option value="60 capsule"> 60 capsule</option>
+                                   <option value="90 capsule"> 90 capsule</option>
+                                </select>
+                                </div>
+                                <div class="form__btn-wrapper">
+                                    <div class="va">
+                                        <button type="submit" value=" अभी ऑर्डर करें " name="send" class="button__text js_submit form__btn btn order__btn anchor">अभी ऑर्डर कीजिए
+                      </button>
+                                    </div>
+                                </div>
+                                <?php
+                                if (!empty($message)) {
+                                ?>
+                                    <p class='<?php echo $type; ?>Message'>
+                                        <?php
+                                        echo '<script language="javascript">';
+                                        echo 'window.location = "db.php";';
+                                        echo '</script>';
+                                        ?>
+                                    </p>
+                                    <?php
+                                }
+                                ?>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <script src="assets/js/script.js"></script>
+    </div>
+
+    <!--retarget-->
+
+    <!--retarget-->
+
+    <script type="text/javascript" src="assets/js/sender.min.js"></script>
+
+
+
+    <div class="ac_footer"><span>&copy; 2022 Copyright. All rights reserved.</span><br>
+        <!-- <a href="#" target="_blank">Privacy policy</a> | <a href="#">Report</a> -->
+        <p> Disclaimer : These statements have not been evaluated by the Food and Drug Administration.
+            <br> This product is not intended to diagnose, treat, cure, or prevent any disease.
+        </p>
+        <script>
+            typeof adc_clearFooter !== 'undefined' && adc_clearFooter();
+        </script>
+    </div>
+
+
+</body>
+
+</html>

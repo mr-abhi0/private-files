@@ -1,0 +1,445 @@
+<html>
+
+<head>
+    <title> Kam-Ratan - दुनिया का नं. 1 उत्पादक लिंग लंबा करने के लिए</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="http://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="../ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="../cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="../maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+    <link href="../asset/timeTo.css" type="text/css" rel="stylesheet" />
+    <script src="../asset/jquery.time-to.js"></script>
+
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
+<body>
+
+    <header class="fixed-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <!--<img class="img-responsive" src="logo.jpg" />-->
+                    <a href="#order_form" class="telephone"><i class="fa fa-mobile"></i>अभी आर्डर करें </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+
+    <div class="main-container">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-4">
+                </div>
+                <div class="col-md-4 pl-0 pr-0">
+
+
+
+                    <section class="bg-main" style="padding-top: 150px;">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-12 col-md-12 ">
+                                    <h3 class="heading-content red-color text-center pl-2 pl-2">
+                                        ऑनलाइन डिस्कवर
+                                    </h3>
+                                    <h3 class="text-white text-center pl-2 pl-2">
+                                        Kam-Ratan</b> का उपयोग करके एक महीने में लिंग का आकार लगभग 2 गुना बढ़ गया और सेक्स अब एक घंटे तक चलता है!
+                                    </h3>
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
+
+
+                    <section class="bg">
+                        <div class="row">
+                            <div class="col-md-12 text-center">
+                            <a href="#order_form">  <img class="img-responsive mt-40" src="1.gif"> </a>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-12 col-md-12 ">
+                                    <p class="text-white pl-2 pl-2">
+                                        मेरा नाम मोहित है, मैं वैशाली का रहने वाला एक आम युवक हूँ और अब मैं आपके सामने <a href="#order_form" class="scrollLink red-color">3 राज़ खोलूँगा,</a> जो आपकी सभी सेक्स संबंधी समस्याओं का समाधान कर देंगे। हाँ, आपने
+                                        सही पढ़ा। कोई फर्क नहीं पड़ता कि आप लड़की हैं या लड़का, दोनों ही मामलों में, ख़राब सेक्स के लिए लड़का और उसका लिंग ही ज़िम्मेदार होते हैं। अगर लिंग में कोई गड़बड़ है तो दोनों के लिए ही समस्याएँ शुरू हो जाती हैं।
+                                        सीधे राज़ की बात करता हूँ, जिससे कि आपका समय व्यर्थ न करूँ।
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="bg-sky">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-12 col-md-12 ">
+
+                                    <h3 class="heading-content red-color text-center pl-2 pl-2">राज़ नं.1.</h3>
+                                    <p class="text-white pl-2 pl-2">मुझ पर यकीन कीजिए और आखिर तक पढ़िए। अगर आपने <a href="#order_form" class="scrollLink red-color">यहाँ तक पढ़ा है तो </a>इसका मतलब है कि आपको सेक्स संबंधी समस्या है। मुझे भी थीं ये समस्याएँ। यहाँ पर गिना सकता हूँ जिन
+                                        सभी समस्याओं से मुझे गुज़रना पड़ा।</p>
+
+                                    <ul style="border: double; background-color: #bdbcbc; padding-top: 15px; padding-bottom: 15px;">
+                                        <li>छोटा लिंग (10 सेमी से कम)</li>
+                                        <li>पतला लिंग (हाथ की बड़ी उँगली जितनी मोटाई)</li>
+                                        <li>स्तंभन दोष (जब मैं थक जाता था या नर्वस होता था, लिंग को खड़ा करना असंभव होता था, भले ही मैं सबसे अच्छी पोर्न फ़िल्म भी क्यों न देख लूँ)</li>
+                                        <li>शीघ्रपतन (जब मैं सेक्स करता था या हस्तमैथुन भी करता था तो एक मिनट में ही कामोन्माद तक पहुँच जाता था।)</li>
+                                    </ul>
+
+                                    <p>और इस स्थिति में कभी बदलाव नहीं आया। मैं 16 साल की उम्र से ही इन समस्याओं का सामना कर रहा था।</p>
+                                    <p>पहले मुझे यह पता नहीं <a href="#order_form" class="scrollLink red-color">था कि यह सामान्य नहीं है</a>, पर जब पोर्न देखने लगा और अपने दोस्तों से उनकी पहली रात के सेक्स की कहानियाँ सुनने लगा तो मुझे समझ में आया कि मेरी
+                                        स्थिति उन सब से बहुत फर्क है।</p>
+                                    <p>शायद आपकी (या आपके प्रेमी की) भी यही स्थिति हो, तो मुझे बस एक बात मालूम है, वह यह कि इससे <b><a href="#order_form" class="scrollLink red-color">खुद पर बिलकुल आत्मविश्वास नहीं रह जाता</a></b>।</p>
+
+                                    <p>मेरा पहला सेक्स बहुत खराब था: 17 साल की उम्र में मैं एक लड़की से मिला था, वह भी मेरी तरह सेक्स से बिलकुल अनजान थी। जब हमने संभोग करना तय किया, शुरू में तो चिंता के कारण लिंग बहुत देर तक खड़ा नहीं हुआ, पर जब उसमें सफल
+                                        हो गया, तो मैं उसका कुँवारापन नहीं ले पाया क्योंकि मेरे लिंग की हालत तुरंत ही लुंज-पुंज हो गई थी... लड़की बहुत निराश हो गई थी और <a href="#order_form" class="scrollLink red-color"> मुझे बहुत शर्म आ रही थी। </a> </p>
+
+                                    <p>और यह कहानी बिलकुल इसी तरह घटित होती थी हर बार जब भी सेक्स तक मामला पहुँचता था। मैं लड़की को तुरंत संतुष्ट नहीं कर पाता था। कई बार ऐसी भी स्थिति हुई कि आदमी मेरे छोटे लिंग के ऊपर हँसती थीं।</p>
+
+                                    <p>अफ्रीकियों के पास भी इतना बड़ा लिंग नहीं होगा। मुझे अपने लिए उचित कच्छा खोजने में मुश्किल होती है, लेकिन महिलाओं को यह पसंद है।</p>
+
+                                    <p>मैं बहुत ही निराश हो गया था और सेक्स संबंध बनाने की कोशिश बंद कर दी। पूरी तरह से।</p>
+
+                                    <p>पर मुझे समाधान मिल गया। और मैं<a href="#order_form" class="scrollLink red-color"> 1 महीने के </a>अंदर सभी समस्याओं से मुक्त हो गया।</p>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-12 col-md-12 ">
+
+                                    <h3 class="heading-content red-color text-center pl-2 pl-2">राज़ नं.2.</h3>
+                                    <p>यह मुख्य राज़ है। यह एक ऐसा उपाय है जो एक महीने में आपकी मदद कर सकता है:</p>
+
+                                    <ul style="border: double; background-color: #bdbcbc; padding-top: 15px; padding-bottom: 15px;">
+                                        <li>आपके लिंग की लंबाई 15 सेमी बढ़ाने में</li>
+                                        <li>लिंग की मोटाई दो गुना बढ़ाने में</li>
+                                        <li>स्तंभन से जुड़ी समस्याएँ दूर करने में</li>
+                                        <li>संभोग की अवधि 2 घंटे तक बढ़ाने में</li>
+                                    </ul>
+
+                                    <p> दोस्त नई दिल्ली में एक मेडिकल सेंटर में काम करता है, एक बार उसने फेसबुक पर यह पोस्ट किया कि वह इच्छुक मर्दों को एक नई दवा के परीक्षण में भाग लेने के लिए आमंत्रित कर रहा है। मैं बहुत हैरान था, क्योंकि उस दवा से मेरी
+                                        सभी समस्याएँ हमेशा के लिए दूर हो जानी चाहिए थीं। अधिक सोच-विचार के बिना मैंने हामी भर ली। पाँच दिन बाद ही मुझे कैप्सूल का एक पैकेट मिला, जिस पर लिखा था<a style="color: blue;" href="#"> Kam-Ratan. </a></p>
+
+                                </div>
+                            </div>
+                    </section>
+
+                    <section class="bg-sky">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-12 col-md-12 ">
+                                <a href="#order_form"> <img class="img-responsive" src="bottle.png" /> </a>
+
+                                    <p class="pt-5">मैं तो बहुत ही हैरान रह गया जब कुछ हफ़्तों बाद ही मेरे सामने भव्य परिणाम थे। आसानी से यकीन नहीं होगा, पर मेरा लिंग 4.5 सेमी. बढ़ गया था, और रातों को मेरी नींद खुलने लगी क्योंकि मेरा लिंग ज़बरदस्त ढंग से खड़ा हो जाता
+                                        था!
+                                    </p>
+
+                                    <p>निर्देशों में लिखा था कि ठीक एक महीने तक इसका सेवन करना ज़रूरी है और मैंने कैप्सूल लेना जारी रखा।</p>
+
+                                    <p>मेरा लिंग विशाल हो गया था। मुझे अपनी आँखों पर यकीन नहीं हो रहा था। मैंने कैप्सूल के सेवन से पहले और बाद की तस्वीरें भेजी थीं, जैसा कि मेरे दोस्त ने अनुरोध किया था, और उसने बताया कि ये परिणाम आम हैं, और परीक्षण में भाग
+                                        लेने वाले 99% लोगों को ऐसे ही परिणाम मिले हैं।</p>
+
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="main-bg">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-12 col-md-12 ">
+                                    <img class="star img-responsive" src="star.png" style="top: 0;" />
+                                    <a href="#order_form">  <img class="img-responsive" src="banner-1.png" /> </a>
+                                </div>
+
+                                <div class="col-12 col-md-12 ">
+
+                                    <p class="pt-5">उसने यह भी बताया कि प्रयोग के बाद कोई भी इच्छुक व्यक्ति <b> Kam-Ratan</b> को इंटरनेट के माध्यम से खरीद सकता है। ऐसा ही है। इस पेज के आखिर में अपना फोन नंबर छोड़ सकते हैं और पूछ सकते हैं कि क्या जादुई गोलियाँ बची हैं,
+                                        और आपके पास फोन आ जाएगा। सब कुछ पूरी तरह से गुमनाम और सुरक्षित है।</p>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="bg-sky">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-12 col-md-12 ">
+
+                                    <h3 class="heading-content red-color text-center pl-2 pl-2">राज़ नं.3.</h3>
+
+                                    <p>सबसे सरल राज़। बस <b> आनंद उठाइए! </b>अब आपको बिस्तर में किसी तरह की चिंता करने की कोई ज़रूरत नहीं है।</p>
+
+                                    <p>उदाहरण के लिए अब मैंने अपने लिए परिचय की साइटें खोल ली हैं, जिन पर आसानी से जान-पहचान की जा सकती है, और कुछ समय तक बातचीत के बाद आदमी खुद ही मेरे घर आ जाती हैं, और हमेशा बहुत संतुष्ट होकर जाती हैं।</p>
+                                    <a href="#order_form">
+                                        <img class="img-responsive mt-50" src="f142b90e-9f09-4c4b-8707-87a50bfd6a2d.jpg" />
+                                    </a>
+                                    <p class="pt-5">पिछले छह महीनों में लगभग 20 आदमी मेरे पास आईं। और उन सभी के साथ मैंने जुनून भरी अविस्मरणीय रातें गुज़ारीं हैं, और नन्ही आदमी संतुष्टी से आँखें घुमाती हुई जाती हैं। मुझे खुद पर बहुत आत्मविश्वास हो गया है, जिसका मेरे
+                                        काम पर भी खूब असर पड़ रहा है। <a href="#order_form" class="scrollLink red-color"> हाल ही में मेरी पदोन्नति हुई है, मुझे बधाई दीजिए!</a></p>
+
+                                    <p>दोस्तो, मेरी सलाह आपके काम आएगी और आपको अपनी ज़िंदगी में बेहतरी के लिए बदलाव की शुरुआत करने में कोई हिचक नहीं होगी!</p>
+
+                                    <p>जैसा की वादा था, यहाँ पर आप अपना टेलीफ़ोन नंबर छोड़ सकते हैं और <b>Kam-Ratan </b>होने के बारे में जानकारी प्राप्त कर सकते हैं। ये कैप्सूल बहुत जल्दी बिक जाते हैं, और इस समय तो उन पर<a href="#order_form" class="scrollLink red-color"> काफी छूट </a>भी
+                                        चल रही है। जल्दी कीजिए।</p>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- <section class="">
+						<div class="container">
+							<div class="row">
+								<div class="col-12 col-md-12 ">
+								
+									
+									<h3 class="heading-content red-color text-center pl-2 pl-2">
+										FAQs
+									</h3>
+									
+									<ul class="faq-list">
+										<li><a href="#">क्या लिंग में टेढ़ापन है ?</a></li>
+										<li><a href="#">30 मिनट तक सेक्स कैसे करे ?</a></li>
+										<li><a href="#">ढीलापन की समस्या क्यों होती है ?</a></li>
+										<li><a href="#">क्या आप अपनी बीवी को संतुष्ट नहीं कर पाते ?</a></li>
+										<li><a href="#">क्या लिंग का सही अकार ही संतुस्ट करता है ?</a></li>
+										<li><a href="#">लिंग 7 इंच तक करने का तरीका ?</a></li>
+										<li><a href="#">क्या आपके लिंग में तनाव की कमी है ?</a></li>
+										<li><a href="#">क्या आप वीर्य की कमी से परेशानहै ?</a></li>
+										<li><a href="#">क्या आपकी पटनेर आपसे खुश नहीं है ?</a></li>
+										<li><a href="#">क्या है लिंग के छोटा रहने का कारन ?</a></li>
+										<li><a href="#">अपनी सेक्स की परेशानियों से छुटकारा पाना चाहते है ?</a></li>
+										<li><a href="#">अपनी पार्टनर की समस्याओं को समझना चाहते है ?</a></li>
+									</ul>
+									
+
+								</div>
+								
+							</div>
+						</div>
+					</section> -->
+
+
+
+                    <section class="main-bg">
+                        <div class="container">
+                            <div class="row">
+
+                                <div class="col-12 col-md-12 ">
+                                    <ul class="social-media">
+                                        <li><a href="#" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#" target="_blank" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#" target="_blank" class="instagram"><i class="fa fa-instagram"></i></a></li>
+                                        <li><a href="#" target="_blank" class="youtube"><i class="fa fa-youtube"></i></a></li>
+                                    </ul>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="bg-sky">
+                        <div class="container">
+                            <div class="row">
+
+                                <div class="col-md-12">
+                                    <h2 class="text-center text-white">लिंग के खड़े रहने के समय में 30 मिनट का सुधार रिपोर्ट किया है।</h2>
+                                </div>
+
+                                <div class="col-md-12 mt-30">
+                                    <div id="countdown-1" style="margin-top: 10px; text-align: center;"></div>
+                                </div>
+
+
+                                <div class="col-md-12" id="order">
+
+                                    <div class="order-form-sec mb-50">
+
+                                        <div class="col-md-12">
+                                            <div class="form-area">
+                                                <div class="price-block">
+                                                    <div class="row">
+                                                        <div class="col-md-12">
+                                                            <span class="old-price">30% OFF </span> <span class="text-white">50% OFF</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row" id="order_form">
+                                            <div class="col-md-12">
+                                                <div class="form-heading">
+                                                    <h3>अभी आर्डर करें</h3>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12">
+                                                <form action="" enctype="multipart/form-data" method="POST" name="myForm" onsubmit="return validateForm()">
+                                                    <div class="form-group">
+                                                        <input type="text" class="form-control" value="" name="userName" placeholder="नाम" required />
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <input type="text" class="form-control mobile_no" value="" name="subject" placeholder="फोन नंबर" required />
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <input type="text" class="form-control pincode" value="" placeholder="पता" required name="userEmail" />
+                                                    </div>
+
+                                                    <div class="form-group">
+                                                        <button value=" अभी ऑर्डर करें " name="send" type="submit" class="form-control btn btn-warning btn-lg">अभी आर्डर करें</button>
+                                                    </div>
+
+                                                    <div class="form-price">
+                                                        <div class="price">
+                                                            <div class="price-inner">
+                                                                <div class="price-items">
+                                                                    <div class="price-items-new">दो महीने का कोर्स <br> प्राप्त करें 50% OFF पे </div>
+                                                                </div>
+
+                                                                <div class="form-group">
+                                                                    <button type="submit" name="submit" class="form-control btn btn-warning btn-lg">अभी आर्डर करें</button>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <?php
+                                                    if (!empty($message)) {
+                                                    ?>
+                                                        <p class='<?php echo $type; ?>Message'>
+                                                            <?php
+                                                            echo '<script language="javascript">';
+                                                            echo 'window.location = "db.php";';
+                                                            echo '</script>';
+                                                            ?>
+                                                        </p>
+                                                    <?php
+                                                    }
+                                                    ?>
+
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <script>
+                                        function validateForm() {
+                                            var x = document.forms["myForm"]["userName"].value;
+                                            if (x == "") {
+                                                alert("Name   must be filled out");
+                                                return false;
+                                            }
+                                            var x = document.forms["myForm"]["subject"].value;
+                                            if (x == "") {
+                                                alert("Phone must be filled out");
+                                                return false;
+                                            }
+                                            var x = document.forms["myForm"]["userEmail"].value;
+                                            if (x == "") {
+                                                alert("Address must be filled out");
+                                                return false;
+                                            }
+
+                                        }
+                                    </script>
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
+
+
+                    <section class="bg mb-50">
+                        <div class="row">
+                            <div class="col-12 col-md-12 mt-30">
+                                <h3 class="text-center text-white">Copyright 2021</h3> <br>
+                                <p class="text-center text-white">
+                                    Disclaimer : These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.
+                                </p>
+                            </div>
+                        </div>
+
+                    </section>
+
+
+                </div>
+                <div class="col-md-4">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <footer class="fixed-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <a href="#order_form" class="scrollLink">
+                        Order Now
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("a.scrollLink").click(function(event) {
+                event.preventDefault();
+                $("html, body").animate({
+                    scrollTop: $($(this).attr("href")).offset().top
+                }, 400);
+            });
+        });
+
+        $('#countdown-1').timeTo(10800, function() {
+            alert('Countdown finished');
+        });
+
+        function isNumber(n) {
+            return (parseFloat(n) == n);
+        }
+
+        $("document").ready(function() {
+            $(".mobile_no").keyup(function(event) {
+                var input = $(this).val();
+                if (!isNumber(input)) {
+                    $(this).val('');
+                    alert("Enter Numbers Only");
+                }
+            });
+            // $(".pincode").keyup(function(event) {
+            //     var input = $(this).val();
+            //     if (!isNumber(input)) {
+            //         $(this).val(input.substring(0, input.length - 1));
+            //         $(this).val('');
+            //         alert("Enter Numbers Only");
+            //     }
+            // });
+        });
+    </script>
+</body>
+
+</html>

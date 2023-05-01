@@ -1,0 +1,130 @@
+﻿.validationerorr
+{
+    border-color: #E9322D !important;
+    box-shadow: 0px 0px 6p #F8B9B7 !important;
+}
+
+
+.validbox
+{
+    cursor: pointer;
+    display: block;
+    padding-bottom: 0;
+    position: absolute;
+    z-index: 999;
+    outline: 0 none;
+}
+
+.validbox .validboxContent
+{
+    /*     background: none repeat scroll 0 0 #FFC0CB;     border: 1px solid #FF0000;     box-shadow: 0 0 6px #000000; */
+    background: none repeat scroll 0 0;
+    border: 1px solid;
+    box-shadow: 0 0 6px;
+    color: #000000;
+    font-family: tahoma;
+    font-size: 11px;
+    padding: 4px 10px;
+    width: 200px;
+}
+.validbox .validboxArrow
+{
+    margin: -2px 0 0 13px;
+    width: 15px;
+    z-index: 5001;
+}
+
+.validbox .validboxArrow div
+{
+    /*background: none repeat scroll 0 0 #FFC0CB;     border-left: 1px solid #FF0000;     border-right: 1px solid #FF0000;     box-shadow: 0 2px 3px #444444;*/
+    background: none repeat scroll 0 0;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    box-shadow: 0 2px 3px;
+    display: block;
+    font-size: 0;
+    height: 1px;
+    line-height: 0;
+    margin: 0 auto;
+}
+. validbox .validboxArrow .line10
+{
+    border: 0 none;
+    width: 15px;
+}
+.validbox .validboxArrow .line9
+{
+    border: 0 none;
+    width: 13px;
+}
+.validbox .validboxArrow .line8
+{
+    width: 11px;
+}
+.validbox .validboxArrow .line7
+{
+    width: 9px;
+}
+.validbox .validboxArrow .line6
+{
+    width: 7px;
+}
+.validbox .validboxArrow .line5
+{
+    width: 5px;
+}
+.validbox .validboxArrow .line4
+{
+    width: 3px;
+}
+.validbox .validboxArrow .line3
+{
+    /*    border-bottom: 0 solid #FF0000;     border-left: 1px solid #FF0000;     border-right: 1px solid #FF0000; */
+    border-bottom: 0 solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    width: 1px;
+}
+.validbox .validboxArrow .line2
+{
+    /*background: none repeat scroll 0 0 #FF0000;*/
+    background: none repeat scroll 0 0;
+    border: 0 none;
+    width: 3px;
+}
+.validbox .validboxArrow .line1
+{
+    /*background: none repeat scroll 0 0 #FF0000;*/
+    background: none repeat scroll 0 0;
+    border: 0 none;
+    width: 1px;
+}
+/******************cusstom set error only*********************************/
+.validbox.errorBox .validboxContent
+{
+    background-color: #FFC0CB;
+    border-color: #FF0000;
+    box-shadow: #000000;
+}
+.validbox.errorBox .validboxArrow div
+{
+    background: #FFC0CB;
+    border-left: #FF0000;
+    border-right: #FF0000;
+    box-shadow: #444444;
+}
+.validbox.errorBox .validboxArrow .line3
+{
+    border-bottom: #FF0000;
+    border-left: #FF0000;
+    border-right: #FF0000;
+}
+.validbox.errorBox .validboxArrow .line2
+{
+    background-color: #FF0000;
+}
+.validbox.errorBox .validboxArrow .line1
+{
+    background-color: #FF0000;
+}
+/********************end*************************************/

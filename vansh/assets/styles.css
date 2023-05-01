@@ -1,0 +1,53 @@
+.gctag p{
+    margin: 0px !important;
+}
+
+   /* салатовый */
+.lime {
+    background: 10px 10px rgb(232, 242, 216);
+    padding: 1em;
+    margin: 10px 0;
+    color: #000000;
+}
+
+.orange {
+background:10px 10px #ffc966;padding:15px;margin:10px 0; color:#000;}
+
+ /* фиолетовый */
+.purple {
+    background: 10px 10px rgba(160, 55, 214, 0.22);
+    padding: 1em;
+    margin: 10px 0;
+    color: #000000;
+}
+
+.green {
+padding:1em;margin:10px 0;color:#000;background:rgba(77,182,168,.4)
+}
+
+.blue {
+padding: 1em;background:#e1edf7;margin:10px 0}
+
+
+.yellow {
+    margin: 20px 0;
+    border: 1px solid #fee142;
+padding: 1em;
+    line-height: 20px;
+    background: rgba(255, 255,204, .9);
+}
+
+.red{
+background-color: #e5684b;color: #fff;padding: 1em;margin:10px 0;
+}
+
+.redborder{
+    padding: 1em;border:2px dotted red;border-radius:5px;margin:10px 0
+}
+
+.blackborder{
+    margin: 20px 0;
+    border: 2px dotted #000;
+    padding: 1em;
+    line-height: 20px;
+    border-radius: 7px;}

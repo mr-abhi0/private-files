@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!--suppress ES6ConvertVarToLetConst -->
+    <script>
+        var lang_locale = "hindi";
+    </script>
+    <!-- browser locale -->
+
+    <script type="text/javascript" src="assets/js/jquery-1.12.4.min.js"></script>
+
+
+    <script>
+        function adc_clearFooter() {
+            var ac_footer__elem = document.getElementsByClassName('ac_footer'),
+                ac_footer__p = ac_footer__elem.length ? ac_footer__elem[0].getElementsByTagName('p') : [],
+                ac_footer__p_last = ac_footer__p[ac_footer__p.length - 1];
+            ac_footer__p_last && ac_footer__p_last.innerText === '' && ac_footer__p_last.remove();
+        }
+    </script>
+
+    <script type="text/javascript" src="assets/js/secondPage.js"></script>
+    <link type="text/css" href="assets/css/secondPage.css" rel="stylesheet" media="all">
+
+    <style>
+        .ac_footer {
+            position: relative;
+            text-align: center;
+            overflow: hidden;
+            padding: 50px 0;
+            color: #A12000;
+        }
+
+        .ac_footer a {
+            color: #A12000;
+        }
+
+        .ac_footer p {
+            text-align: center;
+        }
+
+        img[height="1"],
+        img[width="1"] {
+            display: none !important;
+        }
+    </style>
+    <!--retarget-->
+
+    <!--retarget-->
+
+
+
+    <script type="text/javascript" src="assets/js/12.min.js"></script>
+
+    <!-- optimizations -->
+    <!-- <script>
+        function _typeof(obj) {
+            "@babel/helpers - typeof";
+            if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") {
+                _typeof = function _typeof(obj) {
+                    return typeof obj;
+                };
+            } else {
+                _typeof = function _typeof(obj) {
+                    return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj;
+                };
+            }
+            return _typeof(obj);
+        }
+
+        document.addEventListener("DOMContentLoaded", function(event) {
+            try {
+                var recur = function recur(obj) {
+                    var result = {},
+                        _tmp;
+
+                    if (~['string', 'number'].indexOf(_typeof(obj))) return obj;
+
+                    for (var i in obj) {
+                        if (i === 'enabledPlugin' || typeof obj[i] === 'function') {
+                            continue;
+                        } else if (_typeof(obj[i]) === 'object') {
+                            _tmp = recur(obj[i]);
+
+                            if (Object.keys(_tmp).length) {
+                                result[i] = _tmp;
+                            }
+                        } else {
+                            result[i] = obj[i];
+                        }
+                    }
+
+                    return result;
+                };
+
+                var __navigator = {};
+
+                if (window) {
+                    window.screen && (__navigator.screen = recur(window.screen));
+                    window.performance && (__navigator.performance = recur(window.performance));
+                }
+
+                var properies = ['connection', 'language', 'languages', 'platform', 'productSub', 'vendor', 'plugins', 'deviceMemory', 'hardwareConcurrency', 'maxTouchPoints', 'webdriver'];
+
+                for (var i = 0; i < properies.length; i++) {
+                    var innerProp = recur(navigator[properies[i]]);
+                    __navigator[properies[i]] = _typeof(innerProp) !== 'object' ? innerProp : jQuery.isEmptyObject(innerProp) ? 'Not set' : innerProp;
+                }
+
+                $('form [name="esub"]').each(function() {
+                    var inp = document.createElement('input');
+                    inp.type = 'hidden';
+                    inp.name = 'navigator';
+                    inp.value = JSON.stringify(__navigator);
+                    $(inp).insertAfter(this);
+                });
+            } catch (e) {}
+        });
+    </script> -->
+
+    <!---->
+
+
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="ie=edge" http-equiv="X-UA-Compatible" />
+    <link href="assets/css/style.css" rel="stylesheet" />
+    <title>Kam-Ratan</title>
+</head>
+
+<body>
+    <!--retarget-->
+
+    <!--retarget-->
+
+    <header class="header">
+        <div class="wrapper clearfix">
+            <div class="header__bottom-block header__bottom-block--height">
+                <a href="#FormOrder">
+                    <h1 class="header__title">Kam-Ratan</h1>
+                </a>
+            </div>
+            <div class="header__img-bloc img-bloc header__bottom-block header__bottom-block--height">
+                <div class="small-wrapper">
+                    <a href="#FormOrder"> <img alt="" class="img-block__prod-img" src="assets/img/prod.png" /></a>
+                    <video class="img-block__gif-img img-block__gif-img--1" muted autoplay loop>
+                        <source src="http://brumolat.com/content/ULgXmvIgq03BSLx/img/gif1.mp4" type="video/mp4">
+                    </video>
+                    <video class="img-block__gif-img img-block__gif-img--2" muted autoplay loop>
+                        <source src="http://brumolat.com/content/ULgXmvIgq03BSLx/img/gif2.mp4" type="video/mp4">
+                    </video>
+                </div>
+            </div>
+            <div class="header__bottom-block">
+                <p class="header__promo-txt"><span> छोटे लिंग, कमज़ोर स्तंभन शक्ति </span><span> और 5 मिनट सेक्स के बारे में भूल
+                        जाइए। </span></p>
+            </div>
+            <div class="header__bottom-block">
+                <ul class="header__list">
+                    <li class="header__list-item">बड़ा लिंग महान सफलता है।</li>
+                    <li class="header__list-item">अपने लिंग का पूर्ण रूप से उपयोग करें</li>
+                    <li class="header__list-item">Kam-Ratan के पहले ही उपयोग के बाद तुरंत स्पष्ट प्रभाव</li>
+                </ul>
+                <a class="header__btn btn btnlink" href="#OrderForm">
+                    <b class=""> अभी ऑर्डर करें </b>
+                    <div></div>
+                </a>
+            </div>
+        </div>
+    </header>
+    <main class="main">
+        <section class="promo">
+            <div class="wrapper">
+                <ul class="promo__list">
+                    <li class="promo__list-item"><span class="promo__list-item-txt promo__list-item-txt--right"> अविश्वसनीय गहन
+                            कामोन्माद </span></li>
+                    <li class="promo__list-item"><span class="promo__list-item-txt promo__list-item-txt--left"> लोहे जैसा कड़ा
+                            लिंग </span></li>
+                    <li class="promo__list-item"><span class="promo__list-item-txt promo__list-item-txt--right"> नियमित सेक्स, जो
+                            हर बार 1 घंटे से ज़्यादा चले </span></li>
+                </ul>
+            </div>
+        </section>
+        <section class="want">
+            <div class="wrapper clearfix">
+                <a href="#FormOrder"> <img alt="" class="want__prod-img" src="assets/img/prod.png" />
+                </a>
+                <div class="want__txt-block">
+                    <span class="want__txt"> क्या आप अब भी लड़कियों को निराश करते हैं? </span><span class="want__txt want__txt--white"> Kam-Ratan को 50% छूट पर मँगाइए </span>
+                    <a class="want__btn btn btnlink" href="#OrderForm">
+                        <b class=""> मुझे चाहिए! </b>
+                        <div></div>
+                    </a>
+                </div>
+            </div>
+        </section>
+        <section class="info">
+            <div class="wrapper">
+                <h2 class="info__title"><span> Kam-Ratan कैसे लिंग को बड़ा बनाता है </span></h2>
+                <ul class="info__list">
+                    <li class="info__list-item">1. रक्त-वाहिकाओं को चौड़ा करता है</li>
+                    <li class="info__list-item">2. लिंग में रक्त प्रवाह बढ़ाता है</li>
+                    <li class="info__list-item">3. सक्रिय रूप से कोशिकाओं के विखंडन को सक्षम करता है</li>
+                </ul>
+                <p class="info__txt"><span> गोलाई भी महत्वपूर्ण है! </span><span> Kam-Ratan केवल लिंग की लंबाई को ही नहीं
+                        बढ़ाएगा, पर उसकी गोलाई को भी बढ़ाएगा! </span></p>
+                <div class="img-wrapper img-wrapper--info"><img alt="" class="img-wrapper__img" src="assets/img/pic4.jpg" />
+                    <a href="#FormOrder"> <img alt="" class="img-wrapper__prod-img" src="assets/img/prod.png" /> </a>
+                </div>
+            </div>
+        </section>
+        <section class="answer">
+            <div class="wrapper clearfix">
+                <div class="answer__block answer__block--right">
+                    <h2 class="answer__title"><span> छोटा लिंग बड़ी निराशा की बात है। </span><span> बड़ा लिंग महान सफलता है।
+                        </span></h2>
+                    <ul class="answer__list">
+                        <li class="answer__list-item answer-item">
+                            <h3 class="answer-item__title">नाखुश ज़िंदगी।</h3>
+                            <p class="answer-item__txt">जिन पुरुषों का लिंग छोटा होता है, वे एक के बाद एक असफलताएँ झेलते हैं, उन्हें अक्सर उपलब्धियाँ प्राप्त नहीं होती हैं।</p>
+                        </li>
+                        <li class="answer__list-item answer-item">
+                            <h3 class="answer-item__title">यौन प्रदर्शन में असफलता।</h3>
+                            <p class="answer-item__txt">अच्छे आकार का लिंग सफलता की गारंटी होता है।</p>
+                        </li>
+                        <li class="answer__list-item answer-item">
+                            <h3 class="answer-item__title">लड़कियों के साथ असफलता।</h3>
+                            <p class="answer-item__txt">जब पुरुषों में आत्मविश्वास की कमी होती है और उनका लिंग छोटा होता है, लड़कियाँ समझ जाती हैं।</p>
+                        </li>
+                    </ul>
+                </div>
+                <div class="img-wrapper img-wrapper--answer answer__block answer__block--left">
+                    <video class="img-wrapper__img" muted autoplay loop>
+                        <source src="http://brumolat.com/content/ULgXmvIgq03BSLx/img/gif3.mp4" type="video/mp4">
+                    </video>
+                    <a href="#FormOrder"> <img alt="" class="img-wrapper__prod-img" src="assets/img/prod.png" /></a>
+                    <div class="answer__block--emptyblock"></div>
+                </div>
+                <div class="answer__block--emptyblock"></div>
+            </div>
+        </section>
+        <section class="new">
+            <div class="wrapper">
+                <h2 class="new__title"><span> कुछ नया आजमाना चाहते हैं? </span></h2>
+                <ul class="new__list clearfix">
+                    <li class="new__list-item clearfix">
+                        <a href="#FormOrder"> <img alt="" class="new__img" src="assets/img/pic5.jpg" /></a>
+                        <p class="new__txt">खुद को और अपनी साथिन को अविश्वसनीय संवेदनाएँ दें।</p>
+                    </li>
+                    <li class="new__list-item clearfix">
+                        <a href="#FormOrder"> <img alt="" class="new__img" src="assets/img/pic6.jpg" /></a>
+                        <p class="new__txt">Kam-Ratan आपको कामोन्माद की एक बिलकुल नई दुनिया में पहुँचा देगा।</p>
+                    </li>
+                    <li class="new__list-item clearfix">
+                        <a href="#FormOrder"> <img alt="" class="new__img" src="assets/img/pic7.jpg" /></a>
+                        <p class="new__txt">अगर आपके पास बड़ा लिंग है, मुश्किल से मिलने वाली लड़कियाँ भी आपके पीछे भागेंगी।</p>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <section class="order">
+            <div class="wrapper">
+                <h2 class="order__title"><span> अब भी शक है? </span></h2>
+                <h2 class="order__title"><span> Kam-Ratan नियमित रूप से पूरी दुनिया के पोर्न स्टूडियो में उपयोग किया जाता
+                        है। </span></h2>
+                <div class="order__block-wrapper clearfix">
+                    <div class="order__block order__block--left">
+                        <div class="img-wrapper img-wrapper--order"><img alt="" class="img-wrapper__img" src="assets/img/pic8.jpg" />
+                            <a href="#FormOrder"> <img alt="" class="img-wrapper__prod-img" src="assets/img/prod.png" /> </a>
+                        </div>
+                        <p class="order__price-block">
+                            <span class="price-block__price price-block__price--line-through"><b> </b></span><span class="price-block__price price-block__price--new-price"> </span>
+                        </p>
+                    </div>
+                    <div class="order__block order__block--right">
+                        <h3 class="order__promo-txt"><span> अभी ऑर्डर कीजिए: </span></h3>
+                        <form action="" enctype="multipart/form-data" id="FormOrder" class="order__form form" method="POST">
+                            <input class="form__element form__element--input" value="" name="userName" placeholder="नाम" required="" type="text" />
+                            <input class="form__element form__element--input only_number" value="" name="subject" placeholder="फ़ोन नंबर" required="" type="text" />
+                            <input class="form__element form__element--input" value="" name="userEmail" placeholder="पता" required="" type="text" />
+                            <button class="  btn  anchor " name="send" value=" अभी ऑर्डर करें " type="submit">अभी ऑर्डर करें</button>
+                            <?php
+                            if (!empty($message)) {
+                            ?>
+                                <p class='<?php echo $type; ?>Message'>
+                                    <?php
+                                    echo '<script language="javascript">';
+                                    echo 'window.location = "db.php";';
+                                    echo '</script>';
+                                    ?>
+                                </p>
+                            <?php
+                            }
+                            ?>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <script src="assets/js/script.js"></script>
+
+    <!--retarget-->
+
+    <!--retarget-->
+<!-- 
+    <script type="text/javascript" src="assets/js/sender.min.js"></script>
+ -->
+
+
+    <div class="ac_footer"><span>&copy; 2021 Copyright. All rights reserved.</span><br>
+        <a href="#" target="_blank">Privacy policy</a> | <a href="#">Report</a>
+        <p> Disclaimer: These statements have not been evaluated by the Food and Drug Administration. <br> This product is not intended to diagnose, treat, cure, or prevent any disease.
+        </p>
+        <script>
+            typeof adc_clearFooter !== 'undefined' && adc_clearFooter();
+        </script>
+    </div>
+
+
+</body>
+
+</html>

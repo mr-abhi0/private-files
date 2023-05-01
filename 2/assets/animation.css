@@ -1,0 +1,372 @@
+@-webkit-keyframes resize {
+
+0% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img1.png) center no-repeat;
+	z-index: 1;
+}	
+
+10% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img1.png) center no-repeat;
+	z-index: 0;
+}	
+
+25% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img2.png) center no-repeat;
+	z-index: 2;
+	opacity: 1;
+}
+
+30% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img2.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;
+}
+
+
+45% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img3.png) center no-repeat;
+	z-index: 3;
+	opacity: 1;	
+}
+
+50% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img3.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;	
+}
+
+65% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img4.png) center no-repeat;
+	z-index: 4;
+	opacity: 1;
+}
+
+70% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img4.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;
+}
+
+85% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img5.png) center no-repeat;
+	z-index: 5;
+	opacity: 1;
+}
+
+90% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img5.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;
+}
+
+
+100% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img1.png) center no-repeat;
+	opacity: 1;
+}
+	
+}
+
+@-o-keyframes resize {
+
+0% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img1.png) center no-repeat;
+	z-index: 1;
+}	
+
+10% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img1.png) center no-repeat;
+	z-index: 0;
+}	
+
+25% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img2.png) center no-repeat;
+	z-index: 2;
+	opacity: 1;
+}
+
+30% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img2.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;
+}
+
+
+45% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img3.png) center no-repeat;
+	z-index: 3;
+	opacity: 1;	
+}
+
+50% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img3.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;	
+}
+
+65% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img4.png) center no-repeat;
+	z-index: 4;
+	opacity: 1;
+}
+
+70% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img4.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;
+}
+
+85% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img5.png) center no-repeat;
+	z-index: 5;
+	opacity: 1;
+}
+
+90% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img5.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;
+}
+
+
+100% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img1.png) center no-repeat;
+	opacity: 1;
+}
+	
+}
+
+@-moz-keyframes resize {
+
+0% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img1.png) center no-repeat;
+	z-index: 1;
+}	
+
+10% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img1.png) center no-repeat;
+	z-index: 0;
+}	
+
+25% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img2.png) center no-repeat;
+	z-index: 2;
+	opacity: 1;
+}
+
+30% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img2.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;
+}
+
+
+45% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img3.png) center no-repeat;
+	z-index: 3;
+	opacity: 1;	
+}
+
+50% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img3.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;	
+}
+
+65% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img4.png) center no-repeat;
+	z-index: 4;
+	opacity: 1;
+}
+
+70% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img4.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;
+}
+
+85% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img5.png) center no-repeat;
+	z-index: 5;
+	opacity: 1;
+}
+
+90% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img5.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;
+}
+
+
+100% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img1.png) center no-repeat;
+	opacity: 1;
+}
+	
+}
+
+@keyframes resize {
+
+0% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img1.png) center no-repeat;
+	z-index: 1;
+}	
+
+10% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img1.png) center no-repeat;
+	z-index: 0;
+}	
+
+25% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img2.png) center no-repeat;
+	z-index: 2;
+	opacity: 1;
+}
+
+30% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img2.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;
+}
+
+
+45% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img3.png) center no-repeat;
+	z-index: 3;
+	opacity: 1;	
+}
+
+50% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img3.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;	
+}
+
+65% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img4.png) center no-repeat;
+	z-index: 4;
+	opacity: 1;
+}
+
+70% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img4.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;
+}
+
+85% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img5.png) center no-repeat;
+	z-index: 5;
+	opacity: 1;
+}
+
+90% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img5.png) center no-repeat;
+	z-index: 0;
+	opacity: 1;
+}
+
+
+100% {
+	background: url(//viposidn.com/content/KicYlHX8pUIPE39/images/grid-img1.png) center no-repeat;
+	opacity: 1;
+}
+	
+}
+
+@-webkit-keyframes movetop {
+	
+	from {
+		
+	}
+
+	to {
+		
+	}
+
+}
+
+@-moz-keyframes movetop {
+	
+	from {
+		
+	}
+
+	to {
+		
+	}
+
+}
+
+@-o-keyframes movetop {
+	
+	from {
+		
+	}
+
+	to {
+		
+	}
+
+}
+
+@keyframes movetop {
+	
+	from {
+		
+	}
+
+	to {
+		
+	}
+
+}
+
+
+@-webkit-keyframes moveleft {
+	
+	from {
+		
+	}
+
+	to {
+		
+	}
+
+}
+
+@-moz-keyframes moveleft {
+	
+	from {
+		
+	}
+
+	to {
+		
+	}
+
+}
+
+@-o-keyframes moveleft {
+	
+	from {
+		
+	}
+
+	to {
+		
+	}
+
+}
+
+@keyframes moveleft {
+	
+	from {
+		
+	}
+
+	to {
+		
+	}
+
+}

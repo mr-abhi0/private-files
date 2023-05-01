@@ -1,0 +1,93 @@
+.container {
+  max-width: 500px !important;
+}
+
+.pointers {
+  background: #e6e6e6;
+  padding: 30px 10px 10px 10px;
+  border-bottom: 10px solid #007bff;
+}
+
+.pointers h3 {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.point-unit {
+  margin-bottom: 30px;
+}
+
+.ttn02 {
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.ttn03 {
+  font-weight: 900 !important;
+  font-size: 40px !important;
+}
+
+.ttn04 {
+  background-image: linear-gradient(to right, #07153d, #04184b, #011b58, #001d66, #001f74);
+  color: #fff;
+  font-size: 30px;
+  font-weight: 900;
+  padding: 20px 0;
+}
+
+.ttn05 {
+  margin: 20px 0 0 0;
+}
+
+.ttn06 {
+  margin: 20px 0 20px 0;
+}
+
+.testi {
+  margin-top: 30px;
+}
+
+.footer {
+  margin: 30px 0 0 0;
+  padding-bottom: 40px;
+}
+
+/* FORM CSS */
+
+.db1 {
+  margin: 2em 0;
+}
+
+.none {
+  display: none;
+}
+
+.form-wrapper {
+  padding: 1em;
+}
+
+.form-control {
+  padding: 1em 0.7em !important;
+  border: 3px solid #757575 !important;
+}
+
+select.form-control:not([size]):not([multiple]) {
+  height: calc(3.65rem + 2px) !important;
+}
+
+.os1 {
+  margin-bottom: 1em;
+}
+
+.os2 {
+  font-size: 24px !important;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  background-color: #0070d0 !important;
+}
+
+.btn-primary:hover {
+  background-color: #005baa !important;
+}

@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html dir="ltr">
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<head>
+    <style>
+    .ac_footer {
+        position: relative;
+        text-align: center;
+        overflow: hidden;
+        padding: 50px 0;
+        color: #A12000;
+    }
+
+    .ac_footer a {
+        color: #A12000;
+    }
+
+    .ac_footer p {
+        text-align: center;
+    }
+
+    img[height="1"],
+    img[width="1"] {
+        display: none !important;
+    }
+    </style>
+
+
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui" name="viewport" />
+    <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+    <title> काम रत्न - विश्व नं. 1 लिङ्ग लम्बाइ गर्न उत्पादक </title>
+    <link href="style.css" media="all" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="page">
+    <!--retarget-->
+
+    <!--retarget-->
+
+    <div class="page__wrapper js-wrapper">
+        <div class="header composition">
+            <div class="container">
+                <div class="header__inner">
+                    <div class="header__logo">
+                        <div class="logo"> काम रत्न </div>
+                    </div>
+                    <div class="header__subtitle"> विश्व नं. 1
+                        <span> लिङ्ग </span> लम्बाइ गर्न उत्पादक
+                    </div>
+                    <div class="header__title">
+                        <div class="header__title-big"> सबैभन्दा ठूलो,</div>
+                        <span> पहिले </span> भन्दा ठूलो
+                    </div>
+                    <div class="header__right">
+                        <div class="header__timer">
+                            <div class="timer">
+                                <div class="timer__title"> प्रस्तावको म्याद सकिनु अघि समय बाँकी छ </div>
+                                <div class="timer__items js-timer"></div>
+                            </div>
+                        </div>
+                        <div class="header__package">
+                            <div class="package">
+                                <div class="package__sale-text">
+                                    <div class="sale"> अहिले अर्डर गर्नुहोस्
+                                        <span> थप प्राप्त गर्नुहोस् </span>
+                                    </div>
+                                </div>
+                                <div class="package__image-wrapper">
+                                    <div class="package__sale">
+                                        <div class="package__text"> </div>
+                                    </div>
+                                    <div class="package__image"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="header__price">
+                            <div class="price">
+                                <div class="price__inner">
+                                    <div class="price__items">
+                                        <div class="price__items-old">
+                                        </div>
+                                        <div class="price__items-new"> Pack of 30
+                                        </div>
+                                    </div>
+                                    <div class="price__button">
+                                        <div class="button js-scroll-to"> <a href="#order"
+                                                style="text-decoration:none; color:#fff;"> अहिले अर्डर गर्नुहोस् </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--div class="price__items-new" style="text-align: center;"><span style="font-size:45px; font-weight:600; "><a style="color:red;" href="tel:+91-8929013394">As see On TV</a></span>
+</div-->
+                    <!--div class="price__items-new" style="text-align: center;"><span style="font-size:45px; font-weight:600; "><a style="color:red;" href="tel:+91-8929013394">Call Now : 8929013394</a></span-->
+                    <div class="header__advantages">
+                        <div class="header-advantages">
+                            <div class="header-advantages__item">
+                                <div class="header-advantages__item-icon-wrapper">
+                                    <div class="header-advantages__item-icon header-advantages__item-icon_increase">
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="header-advantages__item-title"> लिंग विस्तार
+
+                            </div>
+                        </div>
+                        <div class="header-advantages__item">
+                            <div class="header-advantages__item-icon-wrapper">
+                                <div class="header-advantages__item-icon header-advantages__item-icon_clock"></div>
+                            </div>
+                            <div class="header-advantages__item-title">
+                                <span> लामो समय सम्मको </span> सम्भोग
+                            </div>
+                        </div>
+                        <div class="header-advantages__item">
+                            <div class="header-advantages__item-icon-wrapper">
+                                <div class="header-advantages__item-icon header-advantages__item-icon_acute"></div>
+                            </div>
+                            <div class="header-advantages__item-title">
+                                <span> इन्द्रिय </span> बढाउनुहोस्
+                            </div>
+                        </div>
+                        <div class="header-advantages__item">
+                            <div class="header-advantages__item-icon-wrapper">
+                                <div class="header-advantages__item-icon header-advantages__item-icon_volume"></div>
+                            </div>
+                            <div class="header-advantages__item-title"> सेक्सी आकार </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="page__content">
+        <section class="effect">
+            <div class="container" style="width:100%;">
+
+                <div class="subtitle subtitle_w-mod clr-mod_03"> काम रत्न
+                    <span class="clr-mod_02"> प्रयोग पछि परिणाम </span>
+                </div>
+                <div class="effect__subwrap">
+
+                    <div class="effect__wrap">
+                        <div class="effect__cell">
+                            <div class="effect__pict">
+                                <img src="images/img-dick_01.png">
+                            </div>
+                            <div class="effect__data">
+                                <div class="effect__parameter"> लम्बाइ <span> + 1.3 सेमी </span></div>
+                                <div class="effect__parameter"> मोटाई <span> + 0.5 सेमी </span></div>
+                            </div>
+                        </div>
+                        <div class="effect__cell effect__cell_mob">
+                            <div class="effect__pict">
+                                <img src="images/img-dick_02.png">
+                            </div>
+                            <div class="effect__data">
+                                <div class="effect__parameter"> लम्बाइ <span> + 2.5 सेमी </span></div>
+                                <div class="effect__parameter"> मोटाई <span> +1.2 सेमी </span></div>
+                            </div>
+                        </div>
+                        <div class="effect__cell effect__cell_mob">
+                            <div class="effect__pict">
+                                <img src="images/img-dick_03.png">
+                            </div>
+                            <div class="effect__data">
+                                <div class="effect__parameter"> लम्बाइ <span> + 3.2 सेमी </span></div>
+                                <div class="effect__parameter"> मोटाई <span> +1.9 सेमी </span></div>
+                            </div>
+                        </div>
+                        <div class="effect__cell">
+                            <div class="effect__pict effect__pict_mod">
+                                <img src="images/img-dick_04.png">
+                            </div>
+                            <div class="effect__data">
+                                <div class="effect__parameter"> लम्बाइ <span> +4.7 सेमी </span></div>
+                                <div class="effect__parameter"> मोटाई <span> +2.6 सेमी </span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="s-experts">
+            <div class="container">
+                <div class="s-experts__title-wrapper">
+                    <div class="s-experts__title">
+                        <div class="s-experts__title-top"> विशेषज्ञ की राय </div>
+                        <div class="s-experts__title-bottom"> यसको बारेमा
+                            <span> विज्ञ राय </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="s-experts__items">
+                    <div class="experts">
+                        <div class="experts__item">
+                            <div class="experts__item-image-wrapper">
+                                <img alt="" class="experts__item-image" src="img/expert1.png" />
+                                <div class="experts__item-title">
+                                    <div class="experts__item-name"> रवि पुरंदरे </div>
+                                    <div class="experts__item-post"> यौनविद् </div>
+                                </div>
+                            </div>
+                            <div class="experts__item-text">
+                                <div class="experts__item-text-shadow"></div>
+                                <p> आधिकारिक तथ्याङ्कको बारेमा धेरै कम मानिसहरूलाई थाहा छ किनभने लिंग अपरेशन एक धेरै
+                                    संवेदनशील विषय हो र मानिसहरूले यस बारे धेरै कुरा गर्न मन पराउँदैनन्। भारतमा हरेक
+                                    वर्ष १०,००० मानिसले शल्यक्रिया गरेर आफ्नो लिंगको लम्बाइ र मोटाई बढाउँछन्। हामीलाई
+                                    जहिले पनि भनिएको छ कि यसले स्वास्थ्यलाई खतरामा पार्छ किनभने स्नायु तन्तुहरू (स्नायु
+                                    प्रणालीका तंत्रिकाहरू) लिंगको गुफाहरूमा गहिरो गएका छन्। यदि यी गुहाहरूमा क्षति
+                                    पुग्यो भने, धेरै जोखिमहरू उत्पन्न हुन्छन्, जस्तै सनसनी गुमाउनु, खडा हुँदा दुखाइ र
+                                    वाकवाकी। </p>
+                                <p> अपरेशनको तुलनामा <span>काम रत्न</span> को कुनै गम्भीर साइड इफेक्टहरू छैनन्। यसले
+                                    शरीरलाई लिंगमा प्राकृतिक रूपमा बोसो-तन्तुहरू भण्डारण गर्न उत्प्रेरित गर्दछ।
+                                </p>
+                            </div>
+                        </div>
+                        <div class="experts__item">
+                            <div class="experts__item-image-wrapper">
+                                <img alt="" class="experts__item-image" src="img/expert2.png" />
+                                <div class="experts__item-title">
+                                    <div class="experts__item-name"> मनोज त्रिवेदी </div>
+                                    <div class="experts__item-post"> यौनविद् </div>
+                                </div>
+                            </div>
+                            <div class="experts__item-text">
+                                <div class="experts__item-text-shadow"></div>
+                                <p> योनिको सबैभन्दा संवेदनशील भाग 2-3 सेन्टिमिटरको गहिराइमा अवस्थित छ। सामान्यतया सबैलाई
+                                    लाग्छ कि महिलाको खुसीको लागि लिंगको लम्बाइ बढी महत्त्वपूर्ण हुन्छ, तर त्यस्तो होइन।
+                                    महिलाको खुसीको लागि पुरुषको लिंगको मोटाई (आकार) बढी महत्त्वपूर्ण हुन्छ। तपाईको लिंग
+                                    जति बाक्लो र कडा हुन्छ, तपाईको श्रीमती त्यति नै सन्तुष्ट हुनेछिन् ।
+                                </p>
+                                <p> यति मात्र होइन, यौनसम्पर्कको क्रममा महिलाको भगङ्कुर (भगाङ्कुर) लाई उत्तेजित गरेर
+                                    बाक्लो लिंगले अनुभूति धेरै गुणा बढाउँछ, जसले चरम उत्तेजित हुने प्रभावलाई धेरै गुणा
+                                    बढाउँछ । </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--div class="price__items-new" style="text-align: center;"><span style="font-size:45px; font-weight:600; "><a style="color:red;" href="tel:+91-8929013394">Call Now : 8929013394</a></span>
+</div-->
+        </div>
+        <div class="s-reviews">
+            <div class="container">
+                <div class="s-reviews__title-wrapper">
+                    <div class="s-reviews__title">
+                        <div class="s-reviews__title-top"> मानिसहरूले पहिले नै प्रयास गरिसकेका छन् र </div>
+                        <div class="s-reviews__title-bottom">
+                            <span> काम रत्न </span> देखेका छन्!
+                        </div>
+                    </div>
+                </div>
+                <div class="s-reviews__items">
+                    <div class="reviews">
+                        <div class="reviews__items">
+                            <div class="reviews__item">
+                                <div class="reviews__item-image-wrapper">
+                                    <img alt="" class="reviews__item-image" src="img/reviewer-anonim.png" />
+                                </div>
+                                <div class="reviews__item-text-wrapper">
+                                    <div class="reviews__item-title-wrapper">
+                                        <div class="reviews__item-name-wrapper">
+                                            <div class="reviews__item-name"> ज़हीन </div>
+                                            <div class="reviews__item-age"> 26 साल </div>
+                                        </div>
+                                        <div class="reviews__item-title">
+                                            <span> मैले मेरी श्रीमतीलाई कहिल्यै पूर्ण सन्तुष्टि दिन सकिन र उनी सधैं
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="reviews__item-text"> यस बारे रिसाएकी थिइन्: उनले मलाई धेरै पटक यस बारे
+                                        केहि गर्न भनिन् किनभने मेरो लिंग एकदम सानो थियो! म धेरै दुखी हुन्थ्यो र विभिन्न
+                                        उपायहरू सोच्थें। मलाई अन्ततः
+                                        <span>काम रत्न</span>.मन पर्यो। मैले यसलाई लागू गरेको ३ हप्ता भइसक्यो,
+                                        <span>र मेरो लिंग धेरै बढेको छ</span> र मेरी श्रीमतीले पनि महसुस गरिरहेकी छिन्।
+                                        उनी अहिले मलाई धेरै पटक सेक्स गर्न आग्रह गर्छिन् ।
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="reviews__item">
+                                <div class="reviews__item-image-wrapper">
+                                    <img alt="" class="reviews__item-image" src="img/reviewer1.png" />
+                                </div>
+                                <div class="reviews__item-text-wrapper">
+                                    <div class="reviews__item-title-wrapper">
+                                        <div class="reviews__item-name-wrapper">
+                                            <div class="reviews__item-name"> राजन </div>
+                                            <div class="reviews__item-age"> 30 साल </div>
+                                        </div>
+                                        <div class="reviews__item-title">
+                                            <span> फरक हेर्नुहोस् </span>
+                                        </div>
+                                    </div>
+                                    <div class="reviews__item-text"> लिंग जति ठूलो हुन्छ, त्यति राम्रो हुन्छ । म आफ्नो
+                                        पुरुषत्व गुमाउन चाहन्न र त्यसैले शल्यक्रियाको जोखिम उठाइनँ। मैले
+                                        <span>काम रत्न</span> कोसिस गरें किनभने यो अधिक सुरक्षित छ र यसले मलाई ठूलो
+                                        फाइदा पनि दियो,
+                                        <span>मेरो साइज 3 सेमीले बढ्यो ।</span> मेरी श्रीमतीले तुरुन्तै आकार बढेको महसुस
+                                        गरिन्।।
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="reviews__item">
+                                <div class="reviews__item-image-wrapper">
+                                    <img alt="" class="reviews__item-image" src="img/reviewer-anonim.png" />
+                                </div>
+                                <div class="reviews__item-text-wrapper">
+                                    <div class="reviews__item-title-wrapper">
+                                        <div class="reviews__item-name-wrapper">
+                                            <div class="reviews__item-name"> जितेंद्र </div>
+                                            <div class="reviews__item-age"> 36 साल </div>
+                                        </div>
+                                        <div class="reviews__item-title">
+                                            <span> काम रत्न के बिना तो सेक्स में मजा ही नहीं आता था, सेक्स लाइफ बोरिंग
+                                                हो गई थी </span>
+                                        </div>
+                                    </div>
+                                    <div class="reviews__item-text"> हाम्रो विवाह भएको ८ वर्ष भइसक्यो र हामी एउटै
+                                        यौनसम्पर्कबाट अल्छी भयौं। सुत्केरी पछि, महिलाहरू जे भए पनि अलि लामो लिंग
+                                        चाहन्छन् । त्यसपछि मैले
+                                        <span>काम रत्न</span> को प्रयास गरें ताकि सेक्स गर्दा बढी रमाइलो र उन्माद बढोस्
+                                        । मेरी श्रीमती भन्छिन् कि उसले अन्ततः
+                                        <span>मेरी श्रीमती भन्छिन् कि उसले अन्ततः मेरो लिंग महसुस गरेको छ ।</span> अब
+                                        हामी हप्तामा धेरै पटक सेक्स गर्छौं ।
+                                        <span>मैले अर्को प्याकेज अर्डर गरेको छु ।</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="reviews__item">
+                                <div class="reviews__item-image-wrapper">
+                                    <img alt="" class="reviews__item-image" src="img/reviewer2.png" />
+                                </div>
+                                <div class="reviews__item-text-wrapper">
+                                    <div class="reviews__item-title-wrapper">
+                                        <div class="reviews__item-name-wrapper">
+                                            <div class="reviews__item-name"> हार्दिक </div>
+                                            <div class="reviews__item-age"> 27 साल </div>
+                                        </div>
+                                        <div class="reviews__item-title">
+                                            <span> काम गर्ने उत्तम उत्पादन
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="reviews__item-text"> म २० वर्षको हुँदा विवाह गरेँ र मेरी श्रीमती २५
+                                        वर्षकी थिइन् । यो मेरी श्रीमतीको दोस्रो बिहे थियो, त्यसैले म उसलाई सन्तुष्ट
+                                        पार्न सक्दिन कि भनेर सधैं डर लाग्थ्यो । यस अवस्थामा अनुभवी व्यक्तिहरूले के
+                                        गर्छन् भन्ने बारे मैले इन्टरनेटमा धेरै खोजेँ, र मैले बुझें कि रहता था कि मैं उसे
+                                        संतुष्ट नहीं कर पाऊँगा। मैंने इंटरनेट पर बहुत सर्च की कि अनुभवी आदमी इस
+                                        परिस्थिती में क्या करते हैं, और मुझे यही समझ में आया कि
+                                        <span>काम रत्न</span> लिनु बुद्धिमानी हुनेछ। त्यसैले मैले मेरी श्रीमतीलाई सोधे र
+                                        उनले खुसीसाथ हो भनिन्!
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="container">
+            <div class="footer__inner">
+                <div class="footer__title">
+                    <div class="footer__title-top">
+                        <div class="footer__title-top-left"> आफ्नो पार्टनरलाई दिनुहोस् </div>
+                        <div class="footer__title-top-right"> चरम आनन्द र उत्साह </div>
+                    </div>
+                    <div class="footer__title-bottom"> उहाँ के योग्य हुनुहुन्छ </div>
+                </div>
+                <!--div class="price__items-new" style="text-align: center;"><span style="font-size:35px; font-weight:600; "><a style="color:red;" href="tel:+91-8929013394">Call Now : 8929013394</a></span>
+</div-->
+                <div class="footer__content">
+                    <div class="footer__left">
+                        <div class="footer__timer">
+                            <div class="timer">
+                                <div class="timer__title"> प्रस्तावको म्याद सकिनु अघि समय बाँकी छ </div>
+                                <div class="timer__items js-timer">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="footer__package">
+                            <div class="package">
+                                <div class="package__sale-text">
+                                    <div class="sale"> अहिले नै अर्डर गर्नुहोस्
+                                        <span> र छुट </span>
+                                    </div>
+                                </div>
+                                <div class="package__image-wrapper">
+                                    <div class="package__sale">
+                                        <div class="package__text"> पाउनुहोस् </div>
+                                    </div>
+                                    <div class="package__image"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer__form js-form" id="order">
+
+                        <form name="frmContact" id="frmContact" method="post" action="" enctype="multipart/form-data"
+                            onsubmit="return validateContactForm()">
+                            <input type="hidden" name="country_code" value="IN">
+                            <input type="hidden" name="esub"
+                                value="-7EBRQCgQAAAEBA_UGA2gnE2X51QAADyVaIcwAAQ9KwDhfEREKEQkqEQ1CEQ1aD2luMDIAAH9hZGNvbWJv_01lN1hKMWU4AANzYg">
+                            <input type="hidden" name="user_safe_id" value="a971257ce5ebbaacc2f152e90c1a2e21">
+                            <input type="hidden" name="goods_id" value="101">
+                            <input type="hidden" name="template_name" value="ZRRXd8ZotDkS7VC">
+                            <input type="hidden" name="ip_city" value="Hansi">
+                            <input type="hidden" name="ip_country" value="IN">
+                            <input type="hidden" name="ip_country_name" value="India">
+                            <input type="hidden" name="title" value="Thor's hammer - IN">
+                            <input type="hidden" name="pid" value="213">
+                            <input type="hidden" name="spversion" value="2">
+                            <input type="hidden" name="shipment_price" value="0">
+                            <input type="hidden" name="total_price" value="1490">
+                            <input type="hidden" name="price_vat" value="0.0">
+                            <input type="hidden" name="price_w_vat" value="2290">
+                            <input type="hidden" name="shipment_vat" value="0.0">
+                            <input type="hidden" name="total_price_wo_shipping" value="2290">
+                            <input type="hidden" name="price" value="2290">
+                            <input type="hidden" name="old_price" value="4580">
+                            <input type="hidden" name="currency" value="₹">
+                            <input type="hidden" name="package_id" value="7">
+                            <input type="hidden" name="package_prices"
+                                value="{'7': {'old_price': 18320, 'price': 9160, 'price_w_vat': 9160, 'shipment_price': 0}, '1': {'old_price': 4400, 'price': 2200, 'price_w_vat': 2200, 'shipment_price': 0}, '3': {'old_price': 8800, 'price': 4400, 'price_w_vat': 4400, 'shipment_price': 0}, '5': {'old_price': 13200, 'price': 6600, 'price_w_vat': 6600, 'shipment_price': 0}}">
+                            <input type="hidden" name="protected" value="False">
+                            <input type="hidden" name="accept_languages" value="en,*">
+
+                            <div class="form__rows">
+                                <div class="form__title"> अहिले अर्डर गर्नुहोस् </div>
+
+                                <div class="form__row">
+                                    <input class="input" name="userName" id="userName" placeholder="नाम" type="text"
+                                        value="" />
+                                </div>
+                                <div class="form__row">
+                                    <input class="input only only_number" name="subject" id="subject" placeholder="फ़ोन "
+                                        type="text" value="" />
+                                </div>
+                                <!--div class="form__row">
+<input class="input only only_number" name="content" id="content" placeholder="पिनकोड" type="text" value=""/>
+</div>
+<div class="form__row">
+<input class="input only only_number" name="userEmail" id="userEmail" placeholder="पूरा पता" type="text" value=""/>
+</div-->
+                                <div class="form__row">
+                                    <select class="form-control" class="input only only_number" name="baddress"
+                                        id="baddress" placeholder="price" type="text" value="">
+                                        <option value="Pack of 30 Capsules"> Pack of 30 Capsules</option>
+                                        <option value="Pack of 60 Capsules"> Pack of 60 Capsules</option>
+                                        <option value="Pack of 90 Capsules"> Pack of 90 Capsules</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form__price">
+                                <div class="price">
+                                    <div class="price__inner">
+                                        <div class="price__items">
+                                            <div class="price__items-old">
+                                            </div>
+                                            <div class="price__items-new"> Pack of 30 capsules
+                                            </div>
+                                        </div>
+
+                                        <div class="price__button">
+                                            <input class="button js js_submit button__text" type="submit" name="send"
+                                                class="buttonIndex" value=" अभी ऑर्डर करें " />
+
+                                            <div id="statusMessage">
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+                            </div>
+                            <input name="time_zone" type="hidden" value="3" />
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <template id="js-timer-html">
+        <div class="timer__item"> {h10}{h1}</div>
+        <div class="timer__item"> {m10}{m1}</div>
+        <div class="timer__item"> {s10}{s1}</div>
+    </template>
+
+
+    <div class="ac_footer"><span>&copy; 2021 Copyright. All rights reserved.</span><br>
+        <p>Disclaimer : These statements have not been evaluated by the Food and Drug Administration. This product is
+            not intended to diagnose, treat, cure, or prevent any disease.
+        <p>
+            <a href="" target="_blank">Privacy policy</a> | <a href="">Report</a>
+    </div>
+
+
+
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    function validateContactForm() {
+        var valid = true;
+
+        $(".info").html("");
+        $(".input-field").css('border', '#e0dfdf 1px solid');
+        var userName = $("#userName").val();
+        var userEmail = $("#userEmail").val();
+        var subject = $("#subject").val();
+        var baddress = $("#baddress").val();
+        var content = $("#content").val();
+
+        if (userName == "") {
+            $("#userName-info").html("Required.");
+            $("#userName").css('border', '#e66262 1px solid');
+            valid = false;
+        }
+
+        if (subject == "") {
+            $("#subject-info").html("Required.");
+            $("#subject").css('border', '#e66262 1px solid');
+            valid = false;
+        }
+
+        if (baddress == "") {
+            $("#baddress-info").html("Required.");
+            $("#baddress").css('border', '#e66262 1px solid');
+            valid = false;
+        }
+
+        return valid;
+    }
+    </script>
+</body>
+
+
+</html>

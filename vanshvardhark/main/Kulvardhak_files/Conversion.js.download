@@ -1,0 +1,36 @@
+/**
+ * Conversion js V - 0.1.1 Updated Date : 19 June 2015
+ * ---------------------------------------------------------------------------------------------------------------
+ * Main functionality of this script is to give call to AFPF Servlet and get
+ * piggyback scripts in callback function callback function will append script
+ * to Iframe and execute it. Note : only for script pixel not for iframe and img
+ * 
+ * Instruction for deployment 1.Set AFPF servlet url to AFPFservletUrl variable
+ * 
+ */
+
+var AFPFservletUrl = "https://adgebra.co.in/Tracker/Conversion";
+var body = document.getElementsByTagName('body').item(0);
+var script = document.createElement('script');
+var conversionPixelSrc = document.getElementById('adg_conversion_pixel').src;
+var Parameters = conversionPixelSrc.substring(conversionPixelSrc.indexOf("?"));
+AFPFservletUrl = AFPFservletUrl + Parameters;
+
+script.setAttribute('type', 'text/javascript');
+script.setAttribute('src', AFPFservletUrl);
+body.appendChild(script);
+
+function adg_conversioncallback(piggScriptJson) {
+	var obj = piggScriptJson;
+
+	var iframe = document.createElement("iframe");
+	iframe.width = "0px";
+	iframe.height = "0px";
+	iframe.style.border = '0em solid black';
+	document.body.appendChild(iframe);
+	var win = iframe.contentWindow;
+	win.document.open();
+	win.document.write(decodeURIComponent(obj['piggyback']));
+	win.document.close();
+
+}

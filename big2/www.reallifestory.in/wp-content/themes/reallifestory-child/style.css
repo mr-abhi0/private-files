@@ -1,0 +1,219 @@
+/*!
+Theme Name: reallifestory-child
+Template: reallifestory
+*/
+@import url("../../../../maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css");
+body{font-size: 14px;}
+input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="number"], input[type="tel"], input[type="range"], input[type="date"], input[type="month"], input[type="week"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="color"], textarea {font-size: 14px;}
+    
+    
+/********Payment***Page***Css***Start*******/
+body{font-family: 'Open Sans', sans-serif;font-size: 14px;margin: 0px; padding: 0px;background:#f5f7f6;color:#3d3d3f;background:url(images/body-bg.jpg) no-repeat;background-size: cover;}
+/*******Header*****Start*********/
+.page-wrapper {display:block;width:100%;padding-top:15px;}
+.logo-sec {max-width:200px;width:100%;margin:0 auto;}
+.money-back-sec {display: inline-flex;width: 100%;color: #fff;align-items: center;background: #00000096;border-radius: 100px;border: solid 1px #616161;padding: 10px 30px;margin: 10px 0 0;}
+.money-back-sec .money-back-left {max-width:100px;margin-right:30px;}
+.money-back-sec .money-back-right h5 {margin:0 0 10px;font-size: 16px;font-weight: bold;}
+.money-back-sec .money-back-right p {margin: 0 0 10px;font-size: 16px;}
+/********Close*****Money*****Back*******/
+.checkout-wrapper{box-shadow: -1px 3px 13px #00000030;padding:40px 40px 25px;margin: 30px 0;
+border-radius: 4px;background: #fff;}
+/*******Start****Package********/
+.package_box {background: #fff;border: solid 3px #dbdada;border-radius:15px;overflow: hidden;display: block; width: 100%;}
+.package-header.pak1{background:url(images/pack-1bg.png) no-repeat;background-size:contain;}
+.package-header.pak2{background:url(images/pack-2bg.png) no-repeat;background-size:contain;}
+.package-header.pak3{background:url(images/pack-3bg.png) no-repeat;background-size:contain;}
+.package_box .package-header{display:block;width:100%;padding:10px;}
+.package_box .package-header .title h3 {font-size:24px;margin:0px;font-weight:bold;text-transform: uppercase;color:#f05b00;line-height:1;}
+.package_box .package-bottle{margin:10px 0 0;}
+.package_box .package-bottle img {max-height: 160px;}
+.package_box .package-details {padding: 0 30px;text-align: center;display: block;width: 100%;}
+.package_box .package-details h4 {font-size:26px;font-weight:bold;color:#5a5b5d;line-height:1;margin:0;}
+.package_box .package-details p {margin: 5px 0 10px;font-weight: 600;line-height: 18px;}
+.package_box ul.package_advantage {text-align:left;margin:0px;padding:0;list-style:none;}
+.package_box ul.package_advantage li{position:relative;display:block;padding:0px 0px 0 54px;min-height:42px;font-size:16px;line-height:20px;margin-bottom:10px;max-width:253px;width:100%;}
+.package_box ul.package_advantage li span {display: block;padding-top: 7px;}
+.package_box ul.package_advantage li::before{position: absolute;font: normal normal normal 14px/1 FontAwesome;content: "\f00c";left: 0px;width: 35px;height: 35px;background: #a9aaae;border-radius: 50%;display: flex;align-items: center;justify-content: center;color: #fff;font-size: 18px;}
+.package_box .price {height:70px;background:#3d3d3f;color:#fff;max-width:220px;width:100%;
+margin: 0 auto;border-radius: 6px;padding: 7px;}
+.package_box .price h1 {margin:0;line-height:1;font-size:36px;font-weight:bold;}
+.package_box .price h1 i {font-weight: lighter;vertical-align: middle;font-size: 33px;}
+.package_box .package-button {background-image: linear-gradient(#ee1c26, #b01e25);height: 44px;
+line-height: 44px;font-size: 34px;text-transform: uppercase;border-radius: 25px;color: #fff;
+font-weight: bold;margin: 15px auto 20px;}
+/*******Close****Package********/
+.package-button.selectedb {display:none;}
+.package-sec input[type="radio"] {position: absolute;position: absolute;
+visibility: hidden;}
+.package-sec label {display:block;width:100%;cursor:pointer;font-weight: normal;}
+.package-sec input[type="radio"]:checked+label .package_box {background: #daf0fe;border: solid 3px #ed0086;}
+.package-sec input[type="radio"]:checked+label .package_box ul.package_advantage li::before {background:#01aeef;}
+.package-sec input[type="radio"]:checked+label .package-button.selectb{display: none;} 
+.package-sec input[type="radio"]:checked+label .package-button.selectedb {display:block;background-image: linear-gradient(#58b544, #007d37);}
+/*******Choose****Package********/
+.payonline_offer-sec {background:#3d3d3f;max-width:730px;width:100%;margin:30px auto;padding:20px 30px;border-radius:6px;color:#fff;}
+.payonline_offer {text-align:center;border:dashed 2px;position: relative;}
+.payonline_offer .offer_h2 {font-size:24px;font-weight:700;color:#fff;text-transform:uppercase;
+background:#3d3d3f;margin: 0;}
+.payonline_offer h4{font-size:24px;color: #ffff06;margin:0px 0;min-height:75px;display:flex;align-items:center;justify-content:center;line-height: 1}
+.border-right {border-right: solid 1px #ddd;}
+.payonline_offer .top_pos {max-width:180px;width:100%;margin:-15px auto 0;}
+.payonline_offer .bottom_pos {max-width: 350px;width: 100%;margin: 0 auto -13px;}
+.payment-method {background:#fff;padding:10px;margin:0 auto 30px;max-width:730px;width:100%;
+box-shadow:-1px 3px 13px #00000030;border-radius:4px;}
+.verified-pay {max-width:650px;width:100%;margin:0 auto 30px;}
+.paymnt_method-select {max-width:600px;width:100%;margin:0 auto;}
+.payment-method h2 {margin:5px 0 15px 0px;text-align:center;text-transform:uppercase;font-size: 24px;font-weight:700;}
+.paymnt_method-select .securepay {text-align:center;margin:30px 0;border-bottom:solid 1px #b7b7b7;
+padding-bottom:20px;}
+.paymnt_method-select .securepay .iconsecure {max-width:44px;width:100%;height:auto;}
+.paymnt_method-select .securepay .iconpaymnt {max-width:400px;width:100%;height:auto;}
+.paymnt_method-select .radio input[type="radio"]{margin-left: 0;position: absolute;top: 3px;left: 0;}
+.paymnt_method-select .radio {
+    padding-left: 15px;
+    position: relative;
+}
+.paymnt_method-select .radio label {font-size: 18px;margin-top:0;color:#3A3A3D;line-height: 20px;font-weight:600;}
+.paymnt_method-select .radio label small {font-size:70%;font-weight:400;}
+.paymnt_method-select .radio label span {font-size:15px;font-weight:600;}
+.paymnt_method-select .radio label span .coupn {border:dotted 1px #f00;color:#f00;padding:0 5px;}
+/*******Close****payment********/
+.table.table-hover.landingpage_table {border:solid 1px #d1d3d4;border-radius:4px!important;margin-bottom:15px;}
+.table.landingpage_table > tbody > tr > td{padding:8px 15px;font-size:14.7px;color: #414042;}
+.table.landingpage_table > tbody > tr > td:last-child {text-align: right;}
+.table.landingpage_table > tbody > tr > td:first-child{font-weight:600;}
+.paymentinfo{margin:30px 0 0;}
+.paymentinfo_box {border:solid 1px #00aeef;border-radius:10px;overflow:hidden;}
+.paymentinfo_box .paymentinfo_title {margin:0px;background:#c41886;color:#fff;text-align:center;text-transform:uppercase;font-size:24px;font-weight:600;padding:10px;}
+.paymentinfo_box .paymentinfo_body{padding:15px;}
+.shippingaddress_sec .form-control {border: solid 1px #bababa;box-shadow: none;border-radius: 20px;
+font-weight: 600;}
+.shippingaddress_sec .form-group {margin-bottom: 10px;}
+.pdr-5 {padding-right:5px;}
+.pdl-5 {padding-left:5px;}
+.shippingaddress_sec .btn-default {background: transparent;padding: 0px;border: none;max-width: 180px;width: 100%;}
+.shippingaddress_sec .paymnt-opt {margin: 13px 0 3px;}
+
+.footer_checkout-content {max-width:620px;width:100%;margin:28px auto 0;}
+.scurcont-bottom {display:flex;align-items:center;flex-flow:row;}
+.scurcont-bottom .scurcont-bottom-left {margin-right:15px;}
+.scurcont-bottom .scurcont-bottom-left img {max-width:55px;height:auto;}
+.scurcont-bottom .scurcont-bottom-right h5 {font-weight:600;text-transform:uppercase;font-size: 14px;margin:0;}
+.scurcont-bottom .scurcont-bottom-right p {font-size:13px;}
+.payment_help {border-top:solid 2px #e7e7e7;padding-top:20px;margin-top:10px;}
+.payment_help-menu {list-style:none;margin:0px;padding:0px;text-align:center;}
+.payment_help-menu li{display:inline-block;margin:0 15px;}
+.payment_help-menu li a{text-decoration:none; color:#414042;font-size:13px;display:block;}
+.payment_help-menu li a:hover{color:#00aeef;}
+/*******Checkout***Page***CLOSE********/
+.decline_pamnt-status {text-align:center;margin:0px auto 30px;}
+.decline_pamnt-status h4 {font-size:21px;font-weight:bold;color:#f37b86;margin:10px 0 5px;}
+.decline_pamnt-status .decline_error {max-width:120px;width:100%;height:auto;position:relative;
+animation:bounce 1s infinite alternate;-webkit-animation:bounce 1s infinite alternate;}
+.decline_pamnt-list {list-style:none;margin:0px 0 5px;padding:0px;}
+.decline_pamnt-list li{display: inline-block;position: relative;margin:0 10px;color:#b6b8b8;font-size:16px;}
+.decline_pamnt-list li::after {position:absolute;width:2px;content:'';height:17px;background: #ddd;right:-13px;top:2px;}
+.decline_pamnt-list li:last-child::after{display:none;}
+.decline_pamnt-status p{font-size:16px;}
+.btn-default {color: #fff;background-color: #00aeef;border-color: #00aeef;border-radius: 0;}
+.btn-default.focus, .btn-default:focus {color: #fff;background-color: #58595b;border-color: #58595b;}
+.btn.btn-default.pmntbutton{max-width:150px;width:100%;font-size:18px;font-weight:bold;padding: 5px;line-height:2;}
+.btn.btn-default.pmntbutton img{max-width:36px;float:left;}
+.btn.btn-default.pmntbutton:hover{color:#fff;background-color:#58595b;border-color:#58595b;}
+@keyframes bounce { from {transform: translateY(0px);}
+  to {transform: translateY(-15px);}
+}
+@-webkit-keyframes bounce {from {transform: translateY(0px);}
+  to {transform: translateY(-15px);}
+}
+.form-content {width: 100%;margin: 0 auto;background: #fff;box-shadow: -1px 3px 13px #00000030;
+padding: 40px;border-radius: 4px;}
+.checkout_right-head {background:#fff;padding:0px;color:#58595b;border-radius:30px;font-size:24px;display:flex;align-items:center;line-height:1;margin-bottom:15px;}
+.checkout_right-head img {width:34px;height:auto;margin-right:15px;}
+.needhlp img {max-width: 19px;vertical-align:bottom;height:auto;margin-right:5px;}
+.needhlp a{text-decoration:none;color:#414042;}
+.needhlp a:hover{color:#00aeef;}
+.decline_address{padding:0 30px;}
+.decline_address .address-boxde p{margin:0;}
+.decline_address .address-boxde h3{font-size:24px;margin:0 0 10px;color:#58595b;}
+.decline_address .address-boxde .custlink{margin-top:7px;}
+.decline_address .address-boxde .custlink span{width:20px;height:20px;display:inline-flex;border: solid 1px;border-radius:50%;align-items:center;justify-content:center;font-size:10px;}
+.decline_address .address-boxde .custlink a{color:#414042;}
+.decline_address .address-boxde .custlink a:hover{color:#00aeef;}
+.decline_address hr{border:1px dashed #dedfe0;margin:15px 0 10px;width:80%;}
+.cont-shopping{text-align:center;margin:25px 0 0;}
+.thankspage h3 {font-size:36px;color:#f30781;margin:0 0 20px;}
+.thankspage.decline_pamnt-status h4 {font-size:16px;color:#3d3d3f;}
+.order-detail-thanks {margin:25px auto 35px;position:relative;max-width:800px;width:100%;
+text-align:center;background:#fff;box-shadow:-1px 3px 10px #00000030;padding-top:15px;border-radius: 4px;}
+.torder_box {float:left;width:100%;margin-bottom:15px;}
+.order-detail-thanks .torder_box .torder_icon {margin-bottom:5px;height:45px;display:flex;align-items:center;justify-content:center;}
+.order-detail-thanks .torder_box .torder_icon img {max-height:40px;width:auto;}
+.order-detail-thanks .torder_box .torder_icon img.big_icon {max-height:24px;height:auto;}
+.order-detail-thanks .torder_box .torder_label {font-size:14px;}
+.order-detail-thanks .torder_box .torder_value {font-size:14px;font-weight:bold;width:100%;word-break:break-all;line-height:1;}
+.order-detail-thanks .col-sm-3.brdr-right::after{content:'';position:absolute;border:dashed 1px #dedfe0;height:100px;right:0;}
+
+
+.field-box{position:relative;float:left;width:100%}
+.field-box .validation-icon{position:absolute;right:15px;top:25%}
+.field-box .wrong{background: url(images/valid-notvalid.png);width: 18px;height: 20px;background-size: cover;background-repeat: no-repeat;background-position: 100% bottom;}
+.field-box .valid{background: url(images/valid-notvalid.png);width: 18px;height: 20px;background-size: cover;background-repeat: no-repeat;background-position: 100% top;}
+
+
+
+/*****Responsive****Css******/
+
+@media only screen and (max-width:1200px) {
+.package_box .package-details {padding: 0 15px;}
+.package_box {min-height: 670px;}   
+}
+
+@media only screen and (max-width:991px) {
+.package_box {min-height: auto;max-width: 375px;width: 100%;margin: 0 auto 30px;}
+.paymentinfo_box{margin-bottom: 30px;}    
+.footer_checkout-content {margin: 0px auto 0;}
+.payonline_offer-sec {margin: 0px auto 30px;} 
+.money-back-sec .money-back-left {margin-right:15px;max-width: 160px;}  
+.col-md-6.border-right {border-right: none;}    
+}
+
+
+@media only screen and (max-width:767px) {
+.paymnt_method-select .col-sm-6.border-right {border-right:none; margin-bottom: 30px;}
+.pdr-5 {padding-right:15px;}    
+.pdl-5 {padding-left:15px;}
+.checkout-wrapper{padding:40px 15px 25px;} 
+.money-back-sec {padding:10px 15px;} 
+.page-wrapper {padding-top: 20px;} 
+.logo-sec {max-width: 160px;}
+.form-content {padding: 15px;}  
+.decline_pamnt-status .decline_error {max-width: 80px;} 
+.decline_pamnt-status h4 {font-size: 17px;}
+.decline_pamnt-list li {font-size: 14px;}
+.decline_address {padding: 0;margin-top: 30px;}    
+.order-detail-thanks .col-sm-3.brdr-right::after{display:none;}
+}
+
+
+@media only screen and (max-width:567px) {
+.money-back-sec {display:block;padding:10px 15px;border-radius:10px;} 
+.money-back-sec .money-back-left {max-width:65px;} 
+.money-back-sec .money-back-right p {margin: 0px;font-size: 14px;}    
+.money-back-sec .money-back-right h5 {margin: 0 0 5px;}   
+.page-wrapper{padding-top: 15px;}
+.logo-sec {max-width: 140px;}    
+.payonline_offer .offer_h2 {font-size:18px;} 
+.payonline_offer .bottom_pos {max-width:170px;margin: 0 auto -20px;}  
+.payonline_offer .top_pos {margin: -12px auto 0;max-width: 150px;} 
+.payonline_offer h4 {font-size: 18px;}
+.payonline_offer-sec{padding: 20px 15px 25px;}    
+.decline_address .address-boxde .custlink a {font-size: 13px;}    
+.decline_pamnt-status p {font-size: 14px;}
+    
+}
+    
+/********Payment***Page***Css***Close*******/
+
+.landing78513201{font-family: 'Lato', sans-serif !important;}

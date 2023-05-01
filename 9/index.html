@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+
+
+
+
+    <script type="text/javascript" src="assets/js/jquery-1.12.4.min.js"></script>
+
+    <script>
+        function adc_clearFooter() {
+            var ac_footer__elem = document.getElementsByClassName('ac_footer'),
+                ac_footer__p = ac_footer__elem.length ? ac_footer__elem[0].getElementsByTagName('p') : [],
+                ac_footer__p_last = ac_footer__p[ac_footer__p.length - 1];
+            ac_footer__p_last && ac_footer__p_last.innerText === '' && ac_footer__p_last.remove();
+        }
+    </script>
+
+    <script type="text/javascript" src="assets/js/secondPage.js"></script>
+    <link type="text/css" href="assets/css/secondPage.css" rel="stylesheet" media="all">
+
+    <style>
+        .ac_footer {
+            position: relative;
+            text-align: center;
+            overflow: hidden;
+            padding: 50px 0;
+            color: #A12000;
+        }
+        
+        .ac_footer a {
+            color: #A12000;
+        }
+        
+        .ac_footer p {
+            text-align: center;
+        }
+        
+        img[height="1"],
+        img[width="1"] {
+            display: none !important;
+        }
+    </style>
+
+
+    <style>
+        .reality-section {
+            padding: 0px 0px 70px 0px;
+        }
+        
+        .reality-section-border {
+            /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,d2d2d2+17,f0f0f0+34,f0f0f0+34,e2e2e2+50,f9f9f9+64,d2d2d2+79,ffffff+100 */
+            background: #f5f5f5;
+            /* Old browsers */
+            background: -moz-linear-gradient(left, #ffffff 0%, #d2d2d2 17%, #f0f0f0 34%, #f0f0f0 34%, #e2e2e2 50%, #f9f9f9 64%, #d2d2d2 79%, #ffffff 100%);
+            /* FF3.6-15 */
+            background: -webkit-linear-gradient(left, #ffffff 0%, #d2d2d2 17%, #f0f0f0 34%, #f0f0f0 34%, #e2e2e2 50%, #f9f9f9 64%, #d2d2d2 79%, #ffffff 100%);
+            /* Chrome10-25,Safari5.1-6 */
+            background: linear-gradient(to right, #ffffff 0%, #d2d2d2 17%, #f0f0f0 34%, #f0f0f0 34%, #e2e2e2 50%, #f9f9f9 64%, #d2d2d2 79%, #ffffff 100%);
+            /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#f5f5f5', endColorstr='#f5f5f5', GradientType=1);
+            /* IE6-9 */
+            ;
+            height: 08px;
+            margin-top: 2px;
+        }
+        
+        .reality-section-thumbs img {
+            padding-bottom: 10px;
+        }
+        /* .reality-section1 h1 {
+        font-size: 50px;
+        color: #ee0202;
+        font-weight: 900;
+        padding: 10px 0px 0px 0px;
+        text-shadow: 0px 2px 18px #e0e0e0;
+    }
+    
+    .reality-section h1 {
+        font-size: 50px;
+        color: #136b65;
+        font-weight: 900;
+        padding: 10px 0px 0px 0px;
+        text-shadow: 0px 2px 18px #e0e0e0;
+    }
+     */
+        /* .reality-section h2 {
+        font-size: 50px;
+        color: #136b65;
+        font-weight: 900;
+        padding: 10px 0px;
+        text-shadow: 0px 2px 18px #e0e0e0;
+    }
+    
+    .reality-section h3 {
+        font-size: 30px;
+        color: #ee0202;
+        font-weight: 900;
+        padding: 10px 0px;
+        text-shadow: 0px 2px 18px #e0e0e0;
+    }
+    
+    .reality-section h4 {
+        font-size: 17px;
+        color: #010101;
+        padding: 10px 0px 10px 0px;
+        font-family: 'Lato', sans-serif;
+        font-weight: normal;
+        text-align: center;
+        width: 84%;
+        line-height: 30px;
+    } */
+        
+        .reality-section-bar {
+            padding-bottom: 20px;
+        }
+        
+        .reality-section-thumbs {}
+    </style>
+
+    <section class="section6" id="benefits">
+
+
+        <!---------------How Portion Starts-------------------------->
+        <style>
+            /*-------------------How Section Starts------------------*/
+            
+            .section6 {}
+            
+            .reality-section-border {
+                /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,d2d2d2+17,f0f0f0+34,f0f0f0+34,e2e2e2+50,f9f9f9+64,d2d2d2+79,ffffff+100 */
+                background: #f5f5f5;
+                /* Old browsers */
+                background: -moz-linear-gradient(left, #ffffff 0%, #d2d2d2 17%, #f0f0f0 34%, #f0f0f0 34%, #e2e2e2 50%, #f9f9f9 64%, #d2d2d2 79%, #ffffff 100%);
+                /* FF3.6-15 */
+                background: -webkit-linear-gradient(left, #ffffff 0%, #d2d2d2 17%, #f0f0f0 34%, #f0f0f0 34%, #e2e2e2 50%, #f9f9f9 64%, #d2d2d2 79%, #ffffff 100%);
+                /* Chrome10-25,Safari5.1-6 */
+                background: linear-gradient(to right, #ffffff 0%, #d2d2d2 17%, #f0f0f0 34%, #f0f0f0 34%, #e2e2e2 50%, #f9f9f9 64%, #d2d2d2 79%, #ffffff 100%);
+                /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+                filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#f5f5f5', endColorstr='#f5f5f5', GradientType=1);
+                /* IE6-9 */
+                ;
+                height: 08px;
+                margin-top: 2px;
+            }
+            
+            .reality-section-bar {
+                padding-bottom: 20px;
+            }
+            
+            .how-section {
+                background: url(../images/how-background.html) no-repeat center top;
+                margin-bottom: 07px;
+            }
+            
+            .how-section-img {
+                float: right;
+                padding-top: 30px;
+            }
+            
+            .how-section-left-padding {
+                padding-top: 62px;
+            }
+            
+            ul.list3 {
+                padding: 30px 10px 0px 10px;
+                list-style: none;
+                font-family: 'Lato', sans-serif;
+                font-size: 17px;
+                font-style: italic;
+                color: #ffffff!important;
+                /* text-shadow: 0px 1px 2px #f1e8da; */
+            }
+            
+            @media (max-width: 768px) {
+                ul.list3 {
+                    padding: 10px 10px 0px 10px;
+                    list-style: none;
+                    font-family: 'Lato', sans-serif;
+                    font-size: 17px;
+                    font-style: italic;
+                    /* text-shadow: 0px 1px 2px #f1e8da; */
+                }
+                /*-------------------Reality Section Ends------------------*/
+                .reality-section {
+                    padding: 0px 0px 30px 0px;
+                }
+                .reality-section h4 {
+                    width: 100%;
+                }
+                .reality-section-thumbs img {
+                    padding-bottom: 10px;
+                }
+                /*-------------------Reality Section Ends------------------*/
+                /*-------------------How Section Starts------------------*/
+                .how-section {
+                    height: auto;
+                    background: none;
+                    margin-bottom: 20px;
+                }
+                .how-section h1 {
+                    font-size: 44px;
+                }
+                .how-section h2 {
+                    font-size: 48px;
+                }
+                .how-section-img {
+                    float: right;
+                    padding-top: 20px;
+                }
+                .how-section-left-padding {
+                    padding-top: 20px;
+                }
+                .how-section h3 {
+                    font-size: 18px;
+                    color: #ffffff;
+                    font-weight: bold;
+                    line-height: 24px;
+                }
+                .how-section-hindi {
+                    line-height: 50px;
+                    font-size: 40px;
+                }
+                ul.list3 {
+                    padding: 10px 10px 0px 10px;
+                    list-style: none;
+                    font-family: 'Lato', sans-serif;
+                    font-size: 17px;
+                    font-style: italic;
+                    /* text-shadow: 0px 1px 2px #f1e8da; */
+                }
+                .list3 li:before {
+                    content: url(../images/li-icon.html);
+                    font-family: 'FontAwesome';
+                    padding: 0px 12px 0px 0px;
+                    font-weight: normal;
+                    position: relative;
+                    top: 10px;
+                }
+                .how-section h5 {
+                    font-size: 58px;
+                    color: #ffffff;
+                    font-weight: 900;
+                    padding-bottom: 15px;
+                    text-transform: uppercase;
+                }
+                .apply-cream {
+                    padding-top: 0px;
+                }
+                /*-------------------How Section Ends------------------*/
+            }
+            
+            .list3 li:before {
+                content: url(../images/li-icon.html);
+                font-family: 'FontAwesome';
+                padding: 0px 12px 0px 0px;
+                font-weight: normal;
+                position: relative;
+                top: 10px;
+            }
+            
+            .how-section h4 {
+                font-size: 22px;
+                font-family: 'Lato', sans-serif;
+                color: #123879;
+                font-style: italic;
+                font-weight: bold;
+                line-height: 29px;
+                padding-bottom: 10px;
+            }
+            
+            .how-section-hindi {
+                font-size: 32px;
+                font-family: 'Lato', sans-serif;
+                color: #123879;
+                font-style: italic;
+                font-weight: bold;
+                line-height: 29px;
+                padding-bottom: 10px;
+            }
+            
+            .apply-cream {
+                padding-top: 63px;
+            }
+            /*-------------------How Section Ends------------------*/
+        </style>
+
+
+
+
+        <!---->
+
+
+        <meta charset="utf-8" />
+        <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+        <title>Kam-Ratan</title>
+        <link href="assets/css/style.css" rel="stylesheet" />
+</head>
+
+<body>
+    <!--retarget-->
+
+    <!--retarget-->
+
+    <header class="header">
+        <div class="wrapper">
+            <div class="header__inner">
+                <div class="header__left">
+                    <h1 class="header__title">
+                        सावधान! Kam-Ratan अवास्तविक आकार में लिंगवृद्धि कर सकता है
+                    </h1>
+                    <ul class="header__arrows-wrapper">
+                        <li><img alt="" src="http://brumolat.com/content/3Ix0WS6zakigBTc/img/down.svg" /></li>
+                        <li><img alt="" src="http://brumolat.com/content/3Ix0WS6zakigBTc/img/down.svg" /></li>
+                        <li><img alt="" src="http://brumolat.com/content/3Ix0WS6zakigBTc/img/down.svg" /></li>
+                        <li><img alt="" src="http://brumolat.com/content/3Ix0WS6zakigBTc/img/down.svg" /></li>
+                    </ul>
+                    <div class="header__img-wrapper">
+                        <a href="#OrderForm"> <img alt="" src="assets/img/gif1.gif" /></a>
+                    </div>
+                </div>
+                <div class="header__right">
+                    <div class="header__doc-img">
+                        <a href="#OrderForm"> <img alt="" src="assets/img/Img1.jpg" /></a>
+                        <ul class="header__list">
+                            <li>
+                                लंबाई में 6 सेमी और मोटाई में 3 सेमी तक लिंगवृद्धि
+                            </li>
+                            <li>
+                                इरेक्शन 5 सेकेंड में और सेक्स 2 घंटे तक
+                            </li>
+                            <li>
+                                भरपूर शुक्राणु, कामोन्माद और तीव्र उत्तेजना
+                            </li>
+                        </ul>
+                        <ul class="header__arrows-wrapper header__arrows-wrapper--mobile">
+                            <li><img alt="" src="http://brumolat.com/content/3Ix0WS6zakigBTc/img/down.svg" /></li>
+                            <li><img alt="" src="http://brumolat.com/content/3Ix0WS6zakigBTc/img/down.svg" /></li>
+                            <li><img alt="" src="http://brumolat.com/content/3Ix0WS6zakigBTc/img/down.svg" /></li>
+                            <li><img alt="" src="http://brumolat.com/content/3Ix0WS6zakigBTc/img/down.svg" /></li>
+                        </ul>
+                    </div>
+                    <div class="header__promo-text">
+                        बड़ा लिंग &ndash; उतनी ही प्रबल कामेच्छा। Kam-Ratan के साथ संभव है:
+                    </div>
+                    <div class="header__product-wrapper">
+                        <ul class="header__right-arrows">
+                            <li><img alt="" src="http://brumolat.com/content/3Ix0WS6zakigBTc/img/down.svg" /></li>
+                            <li><img alt="" src="http://brumolat.com/content/3Ix0WS6zakigBTc/img/down.svg" /></li>
+                            <li><img alt="" src="http://brumolat.com/content/3Ix0WS6zakigBTc/img/down.svg" /></li>
+                        </ul>
+                        <div class="header__product product">
+                            <div class="product__left">
+                                <a href="#OrderForm"> <img alt="" src="assets/img/product.png" /></a>
+                            </div>
+                            <div class="product__info">
+                                <div class="product__price-block">
+                                    <p class="product__price product__price--old">
+                                        20% OFF
+                                    </p>
+                                    <p class="product__price product__price--new">
+                                        50% OFF
+                                    </p>
+                                </div>
+                                <ul class="product__timer countdown">
+                                    <li>
+                                        <span class="d days">
+                      00
+                    </span>
+                                    </li>
+                                    <li>
+                                        <span class="d hours">
+                      00
+                    </span>
+                                    </li>
+                                    <li>
+                                        <span class="d minutes">
+                      00
+                    </span>
+                                    </li>
+                                    <li>
+                                        <span class="d seconds">
+                      00
+                    </span>
+                                    </li>
+                                </ul>
+                                <p class="product__text">
+                                    ध्यान दें! प्रचार के लिए उत्पादों की संख्या सीमित है
+
+                                </p>
+                                <a class="product__btn btn btnlink" href="#">
+                   50% छूट पर ऑर्डर
+                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main class="main">
+        <section class="advantages">
+            <div class="wrapper">
+                <h2 class="section__title advantages__title">
+                    दर्द और सर्जरी के बिना लंबाई में 6 सेमी और मोटाई में 3 सेमी लिंगवृद्धि
+                </h2>
+                <ul class="advantages__list">
+                    <li class="advantages__item">
+                        <div class="advantages__card">
+                            <div class="advantages__img">
+                                <a href="#OrderForm"> <img alt="" src="assets/img/Img2.jpg" /></a>
+                            </div>
+                            <div class="advantages__info">
+                                <span></span>
+                                <p>
+                                    दर्द और सर्जरी के बिना लंबाई में 6 सेमी और मोटाई में 3 सेमी लिंगवृद्धि
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="advantages__item">
+                        <div class="advantages__card">
+                            <div class="advantages__img">
+                                <a href="#OrderForm"> <img alt="" src="assets/img/Img3.jpg" /></a>
+                            </div>
+                            <div class="advantages__info">
+                                <span></span>
+                                <p>
+                                    तुम्हारे और तुम्हारी साथिन के लिए लंबा और अविस्मरणीय सेक्स
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="advantages__item">
+                        <div class="advantages__card">
+                            <div class="advantages__img">
+                                <a href="#OrderForm"><img alt="" src="assets/img/Img4.jpg" /></a>
+                            </div>
+                            <div class="advantages__info">
+                                <span></span>
+                                <p>
+                                    टेस्टोस्टेरोन का उच्च स्तर
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="advantages__item">
+                        <div class="advantages__card">
+                            <div class="advantages__img">
+                                <a href="#OrderForm"> <img alt="" src="assets/img/Img5.jpg" /></a>
+                            </div>
+                            <div class="advantages__info">
+                                <span></span>
+                                <p>
+                                    अधिकतम संवेदनशील और कड़ा लिंग
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <section class="anonymity">
+            <div class="wrapper">
+                <div class="anonymity__inner">
+                    <div class="anonymity__left">
+                        <a href="#OrderForm"> <img alt="" src="assets/img/Img6.jpg" /></a>
+                    </div>
+                    <div class="anonymity__right">
+                        <h3 class="anonymity__title">
+                            पूरी तरह से अनाम!
+                            <a href="#OrderForm"> <img alt="" class="anonymity__img" src="assets/img/product.png" /></a>
+                        </h3>
+                        <p class="anonymity__text">
+                            Kam-Ratan का ऑर्डर करने पर, खरीदारी करते समय आपका नाम गुप्त रहता है और सेक्स अविस्मरणीय होता है
+                        </p>
+                        <a class="anonymity__btn btn btnlink" href="#">
+              बटन: 50% छूट पर अनाम ऑर्डर
+            </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="section6" id="benefits">
+            <div class="how-section">
+
+                <div class="container">
+
+                    <h1 class="redyellow" align="center" style="font-size: 45px;">HOW KAMA-SUTRA GOLD WORKS?</h1>
+                    <h1 class="redyellow" align="center" style="font-size: 45px;">कामा-सूत्रा कैसे काम करता है ?</h1><br>
+
+                    <h5 class="redyellow" align="center">पूर्ण करें योन कार्यक्षमता</h5>
+
+                    <div class="row">
+
+                        <div class="col-sm-6">
+
+                            <div class="how-section-left-padding">
+
+                                <h3>BY USING THIS WONDERFUL ENHANCEMENT PILLS FOR MEN GAIN UP TO 5 INCHES GROWTH IN PENIS SIZE</h3>
+
+                                <h3>पुरुषों के लिए बढ़िया इस औषधि का उपयोग करके लिंग के आकार में 5 इंच वृद्धि का लाभ उठाएं</h3>
+
+                                <ul class="list3">
+
+                                    <li>1. Bottle of KAMA-SUTRA GOLD capsules + Cream shall yield penis enlargement of 0.5 Inches or more.</li>
+
+                                    <li>KAMA-SUTRA GOLD कैप्सूल और क्रीम की 1 बोतल, 0.5 इंच या उससे अधिक के लिंग वृद्धि का उत्पादन करेगा</li>
+
+                                    <br>
+
+                                    <li>2. Bottles of KAMA-SUTRA GOLD capsules + Cream + Oil shall yield penis enlargement of 2 Inches or more.</li>
+
+                                    <li>KAMA-SUTRA GOLD कैप्सूल की 2 बोतलें + क्रीम + तेल, 2 इंच या उससे अधिक के लिंग वृद्धि का उत्पादन करेगा</li>
+
+                                    <br>
+
+                                    <li>3. Bottles of KAMA-SUTRA GOLD capsules + Cream + Oil shall yield penis enlargement of 5 Inches or more.</li>
+
+                                    <li>KAMA-SUTRA GOLD कैप्सूल की 3 बोतलें + क्रीम + तेल 5 इंच या उससे अधिक के लिंग वृद्धि का उत्पादन करेगा</li>
+
+                                </ul>
+
+
+
+
+
+                                <br>
+
+                                <h3>KAMA-SUTRA GOLD IS PREPARED ON A FORMULA BASED ON HERBAL INGREDIENTS</h4>
+
+                                    <h3>ख़ासकर हर्बल सामग्री पर आधारित फार्मूला तैयार किया गया है, KAMA-SUTRA GOLD </h4>
+
+
+
+                                        <h4>Helps in strengthening and keeping the erection for an extended time.</h4>
+
+                                        <h4>लम्बे समय के लिए लिंग के खड़ेपन और मजबूती में सहायता करता है </h4>
+
+                                        <br>
+
+                                        <h4>Improves the stamina and energy.</h4>
+
+                                        <h4>शक्ति और ऊर्जा में वृद्धि करता है </h4>
+
+                                        <br>
+
+
+
+                                        <h4>All orders are 100% Satisfaction Guaranteed. That is the means by which certain we are from more than 15 years of making this earth shattering item.</h4>
+
+                                        <div class="how-section-hindi">सभी आर्डर पर 100% संतुष्टि की गारंटी है।</div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="col-sm-6 no-padding">
+
+                            <div class="apply-cream">
+                                <a href="#bookform"><img src="assets/reality/practice.jpg" style="width:100%"></a>
+                            </div>
+
+                            <p align="center"> Please contact Customer Care in detail before use.</p>
+
+                            <div class="apply-cream">
+                                <a href="#bookform"><img src="assets/reality/gif2.gif" style="width:100%"></a>
+                            </div>
+
+                            <div class="how-section-img"></div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--------------------------------HOW KAMA-SUTRA GOLD -->
+
+        <section class="opinion">
+            <div class="wrapper">
+                <ul class="opinion__list">
+                    <li class="opinion__item">
+                        <div class="opinion__card">
+                            <div class="opinion__header">
+                                <a href="#OrderForm"> <img alt="" src="assets/img/Img8.jpg" /></a>
+                                <p>
+                                    नीलेश, पोर्न अभिनेता:
+                                </p>
+                            </div>
+                            <p class="opinion__text">
+                                बहुत से लोगो का मानना है कि पोर्न अभिनेता सर्जरी से लिंगवृद्धि करवाते हैं। हो सकता है कि कोई करवाता भी हो, पर सर्जरी के बाद निशान रह जाते हैं, जिसके बाद फ़िल्म बनाने के लिए कोई भी नहीं लेगा, सस्ती पोर्न फिल्मों में भी नहीं लेंगे। हमारे यहाँ सभी Kam-Ratan
+                                लेते हैं &ndash; प्राकृतिक, असरदार और सुरक्षित है। बस यह मत कहना कि इसके बारे में सुना ही नहीं है।
+                            </p>
+                        </div>
+                    </li>
+                    <li class="opinion__item">
+                        <div class="opinion__card">
+                            <div class="opinion__header">
+                                <a href="#OrderForm"> <img alt="" src="assets/img/Img9.jpg" /></a>
+                                <p>
+                                    अजित श्रीवास्तव, सेक्सोलॉजिस्ट:
+                                </p>
+                            </div>
+                            <p class="opinion__text">
+                                मैं अक्सर लिंग के छोटे आकार की शिकायत सुनता हूँ, और सभी को Kam-Ratan की सलाह देता हूँ। इसके परिणाम जल्दी मिलते हैं और प्रकृति से जो मिला है उसे ठीक करने में यह मदद करता है। Kam-Ratan लिंगवृद्धि, मर्दाना क्षमता में वृद्धि और संभोग की अवधि बढ़ाने के लिए
+                                सुरक्षित उपाय है।
+                            </p>
+                        </div>
+                    </li>
+                    <li class="opinion__item">
+                        <div class="opinion__card">
+                            <div class="opinion__header">
+                                <a href="#OrderForm"> <img alt="" src="assets/img/Img10.jpg" /></a>
+
+                                <p>
+                                    जतिन सहाय, पोर्न अभिनेता
+                                </p>
+                            </div>
+                            <p class="opinion__text">
+                                मेरा लिंग मेरे लिए कमाई का साधन है। मैं बचपन से पोर्न इंडस्ट्री में जाने का सपना देखता था, पर मेरे छोटे लिंग के कारण मेरे लिए रास्ता बंद था। जब तक कि मैंने Kam-Ratan नहीं आज़माया। वैसे सभी पोर्न अभिनेता इसका उपयोग करते हैं। क्योंकि लिंगवृद्धि के लिए इससे
+                                बेहतर उपाय की खोज अभी तक नहीं हुई है &ndash; यही सच है।
+                            </p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <section class="order">
+            <div class="wrapper">
+                <div class="order__row order__row--01">
+                    <div class="order__text-block">
+                        <h2 class="order__title">
+                            Kam-Ratan से लिंग बड़ा, मोटा और ताकतवर हो जाता है
+                        </h2>
+                        <div class="order__img order__img--mobile">
+                            <a href="#OrderForm"> <img alt="" src="assets/img/gif2.gif" /></a>
+
+                        </div>
+                        <p class="order__promo">
+                            50% छूट पर लिंग को लंबाई में 6 सेमी और मोटाई में 3 सेमी तक बढ़ाइए
+                        </p>
+                    </div>
+                    <div class="order__img">
+                        <a href="#OrderForm"> <img alt="" src="assets/img/gif2.gif" /></a>
+
+                    </div>
+                </div>
+                <div class="order__row order__row--02">
+                    <div class="order__left">
+                        <div class="order__product product">
+                            <div class="product__left">
+                                <a href="#OrderForm"> <img alt="" class="product__img" src="assets/img/product.png" />
+                                </a>
+                            </div>
+                            <div class="product__info">
+                                <div class="product__price-block">
+                                    <p class="product__price product__price--old">
+                                        20% OFF
+                                    </p>
+                                    <p class="product__price product__price--new">
+                                        50% OFF
+                                    </p>
+                                </div>
+                                <ul class="product__timer countdown">
+                                    <li>
+                                        <span class="d days">
+                      00
+                    </span>
+                                    </li>
+                                    <li>
+                                        <span class="d hours">
+                      00
+                    </span>
+                                    </li>
+                                    <li>
+                                        <span class="d minutes">
+                      00
+                    </span>
+                                    </li>
+                                    <li>
+                                        <span class="d seconds">
+                      00
+                    </span>
+                                    </li>
+                                </ul>
+                                <p class="product__text">
+                                    ध्यान दीजिए! छूट पर शेष पैकेटों की संख्या सीमित है
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="order__center">
+                        <a href="#OrderForm"> <img alt="" class="order__center-img" src="assets/img/Img7.jpg" /></a>
+                        <ul class="order__arrows-wrapper">
+                            <li><img alt="" src="http://brumolat.com/content/3Ix0WS6zakigBTc/img/down.svg" /></li>
+                            <li><img alt="" src="http://brumolat.com/content/3Ix0WS6zakigBTc/img/down.svg" /></li>
+                            <li><img alt="" src="http://brumolat.com/content/3Ix0WS6zakigBTc/img/down.svg" /></li>
+                        </ul>
+                    </div>
+                    <div class="order__right">
+                        <form action="" id="OrderForm" enctype="multipart/form-data" class="anchor order__form form article__form" method="post">
+                            <div class="form__element form__element--wrapper">
+                                <div class="form__arrow"></div>
+                                <select class="form__element form__element--select" id="country_code_selector" name="country">
+<option value="IN">भारत</option>
+</select>
+                            </div>
+                            <input class="form__element form__element--input" value="" name="userName" placeholder="नाम" type="text" />
+                            <input class="form__element form__element--last form__element--input only_number" value="" name="subject" placeholder="फोन नंबर " type="text" />
+                            <input class="form__element form__element--input" value="" name="userEmail" placeholder="पता" type="text" />
+                            <button class="js_submit section__btn form__btn button__text btn anchor" value=" अभी ऑर्डर करें " name="send" type="submit">
+<span>
+    अभी ऑर्डर करें
+                </span>
+</button>
+                            <?php
+if (!empty($message)) {
+?>
+                                <p class='<?php echo $type; ?>Message'>
+                                    <?php
+        echo '<script language="javascript">';
+        echo 'window.location = "db.php";';
+        echo '</script>';
+        ?>
+                                </p>
+                                <?php
+}
+?>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <script src="assets/js/main.js"></script>
+
+    <!--retarget-->
+
+    <!--retarget-->
+
+    <script type="text/javascript" src="assets/js/sender.min.js"></script>
+
+
+    <script type="text/javascript" src="assets/12.min.js"></script>
+    <div class="ac_footer"><span>&copy; 2021 Copyright. All rights reserved.</span><br>
+        <a href="#" target="_blank">Privacy policy</a> | <a href="#">Report</a>
+        <p> Disclaimer : These statements have not been evaluated by the Food and Drug Administration.
+            <br> This product is not intended to diagnose, treat, cure, or prevent any disease.
+        </p>
+        <script>
+            typeof adc_clearFooter !== 'undefined' && adc_clearFooter();
+        </script>
+    </div>
+
+
+</body>
+
+</html>

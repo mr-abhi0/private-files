@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Document</title>
+    <style>
+        html {
+            line-height: 1.15;
+            -webkit-text-size-adjust: 100%;
+        }
+        
+        body {
+            margin: 0;
+        }
+        
+        main {
+            display: block;
+        }
+        
+        h1 {
+            font-size: 2em;
+            margin: 0.67em 0;
+        }
+        /* a {
+            background-color: transparent;
+        } */
+        
+        b {
+            font-weight: bolder;
+        }
+        
+        img {
+            border-style: none;
+        }
+        
+        input {
+            font-family: inherit;
+            font-size: 100%;
+            line-height: 1.15;
+            margin: 0;
+        }
+        
+        input {
+            overflow: visible;
+        }
+        
+        [type="submit"] {
+            -webkit-appearance: button;
+        }
+        
+        [type="submit"]::-moz-focus-inner {
+            border-style: none;
+            padding: 0;
+        }
+        
+        [type="submit"]:-moz-focusring {
+            outline: 1px dotted ButtonText;
+        }
+        
+         ::-webkit-file-upload-button {
+            -webkit-appearance: button;
+            font: inherit;
+        }
+        
+        html {
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+        
+        *,
+        *::before,
+        *::after {
+            box-sizing: inherit;
+        }
+        
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+        
+        body,
+        h1,
+        h2,
+        p,
+        li {
+            margin: 0;
+        }
+        
+        ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        
+        input {
+            color: inherit;
+            font: inherit;
+            letter-spacing: inherit;
+        }
+        
+        img {
+            display: block;
+            max-width: 100%;
+        }
+        
+        .clearfix::after {
+            content: "";
+            display: block;
+            clear: both;
+        }
+        
+        body {
+            min-width: 320px;
+            width: 100%;
+            scroll-behavior: smooth;
+            text-rendering: optimizeSpeed;
+            line-height: 1.5;
+            font-family: "Roboto", sans-serif;
+            font-weight: 500;
+            color: #eec2c2;
+            background: #ffffff;
+        }
+        
+        .wrapper {
+            max-width: 1020px;
+            width: 100%;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        @media (max-width: 767px) {
+            .wrapper {
+                padding: 0 10px;
+            }
+        }
+        
+        @media (max-width: 991px) {
+            .article {
+                padding-top: 50px;
+            }
+        }
+        
+        .article__inner {
+            max-width: 970px;
+            background: #faf4f4;
+            padding: 60px;
+            margin: 0 auto;
+            border-radius: 5px;
+        }
+        
+        @media (max-width: 991px) {
+            .article__inner {
+                padding: 25px 50px;
+            }
+        }
+        
+        @media (max-width: 767px) {
+            .article__inner {
+                padding: 25px 10px;
+            }
+        }
+        
+        .article__text {
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 34px;
+            color: #ffffff;
+            margin-bottom: 15px;
+        }
+        
+        @media (max-width: 767px) {
+            .article__text {
+                font-size: 18px;
+                line-height: 28px;
+                margin-bottom: 10px;
+            }
+        }
+        
+        .article__title {
+            font-weight: 500;
+            font-size: 32px;
+            line-height: 48px;
+            color: #ffffff;
+            margin-bottom: 25px;
+        }
+        
+        @media (max-width: 767px) {
+            .article__title {
+                font-size: 24px;
+                line-height: 32px;
+                margin-bottom: 10px;
+            }
+        }
+        
+        .article__fact-wrapper {
+            font-size: 0;
+            display: table;
+            width: 100%;
+            background: #474646;
+            margin-bottom: 25px;
+        }
+        
+        @media (max-width: 991px) {
+            .article__fact-wrapper {
+                display: block;
+                padding: 5px;
+            }
+        }
+        
+        .article__fact-text {
+            font-weight: 500;
+            font-size: 24px;
+            line-height: 40px;
+            color: #ffffff;
+            display: table-cell;
+            width: 50%;
+            vertical-align: middle;
+            height: 300px;
+            padding: 20px 50px;
+        }
+        
+        @media (max-width: 991px) {
+            .article__fact-text {
+                display: block;
+                width: 100%;
+                height: auto;
+                padding: 10px;
+                font-size: 18px;
+                line-height: 28px;
+            }
+        }
+        
+        .article__fact-img {
+            background: url("assets/Image5.jpg") no-repeat right center/cover;
+            display: table-cell;
+            width: 50%;
+        }
+        
+        @media (max-width: 991px) {
+            .article__fact-img {
+                display: block;
+                width: 100%;
+                height: 350px;
+            }
+        }
+        
+        @media (max-width: 767px) {
+            .article__fact-img {
+                height: 250px;
+            }
+        }
+        
+        .article__img-wrapper {
+            font-size: 0;
+            margin-bottom: 25px;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="sticky">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">Navbar</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">
+                    Dropdown
+                  </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled">Disabled</a>
+                    </li>
+                </ul>
+
+            </div>
+        </nav>
+    </header>
+    <main class="main">
+        <section class="article">
+            <div class="wrapper">
+                <div class="article__inner">
+
+                    <div class="article__fact-wrapper">
+                        <p class="article__fact-text">आंकड़ों के अनुसार, हर 3 में से 1 मर्द का लिंग जन्म से ही छोटा होता है, और आगे चलकर 80% मर्द अपने लिंग के साइज़ से असंतुष्ट होते हैं।</p>
+                        <div class="article__fact-img"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+</body>
+
+</html>

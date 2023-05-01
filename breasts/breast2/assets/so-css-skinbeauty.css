@@ -1,0 +1,770 @@
+body {
+  text-align: justify;
+}
+
+.gdlr-navigation-wrapper .gdlr-main-menu > li > a.sf-with-ul {
+  padding: 0 20px 26px 0 !important;
+}
+.priceFinance{ line-height:3.6em;}
+.top_button_area.top_button_search {
+  position: relative;
+  top: -2px;
+}
+h1.gdlr-page-title{ max-width:808px; text-align:left;} /*870px 868px */
+
+h3.blackh3 {
+  text-align: center;
+}
+.gdlr-blog-date-wrapper{display:none;}
+/*-----------------------FRONT PAGE--------------------*/
+
+.front-page-block1 { float:left; width:33%; box-sizing:border-box; padding: 0 30px; margin-top:5px;}
+.front-page-block1 img {margin:20px auto 20px auto;}
+.front-page-block2 { float:left; width:33%; box-sizing:border-box; padding: 0 15px; margin-top:5px;}
+.front-page-block2-custom1 p{margin-bottom:0;}
+
+/*-------------------------PAGES-------------------------------------*/
+.servicesboxContainer{width:100%; text-align: center;float:left;background: rgba(248, 247, 247, 0.9); border-radius: 3px;}
+.servicesbox{ border-radius: 5px; width: 30%;float: left; box-sizing:border-box; padding: 0px 3px; margin: 10px 1.5% 30px 1.5%; background: #fff;}
+.servicesbox h3{font-size:medium;}
+
+.clinic_surgeons .gdlr-blog-date-wrapper{display:none;}
+.clinic_surgeons .gdlr-blog-content p{text-align: left !important; clear:both;}
+.clinic_surgeons .gdlr-blog-content img{margin:1px 23px;}
+
+/*-----------------SIDE-FORM-----------*/
+.textwidget .form_area h2 {
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.free_consultation_form {
+  background: #E8F6FC;
+  padding: 10px 0 0 0px;
+}
+
+.free_consultation_form .form_row {
+  float: left;
+  position: relative;
+  clear: both;
+  width: 100%;
+}
+
+.free_consultation_form .form_label {
+  float: left;
+  width: 29%;
+  padding: 3% 0 0 4%;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.free_consultation_form .form_row .form_field {
+  float: right;
+  width: 70%;
+  max-width: 270px;
+}
+
+.free_consultation_form .form_row textarea {
+  float: right;
+  width: 64%;
+  height: 50px;
+  border: 1px solid #83d4f0;
+  border-radius: 3px;
+  padding: 4px;
+  box-sizing: border-box;
+  max-width: 270px;
+  color: black;
+  background: white;
+  font-size: 15px;
+  position: relative;
+  left: -3px;
+}
+
+.free_consultation_form .form_row input {
+  max-width: 270px;
+  border: 1px solid #83d4f0;
+  width: 100%;
+  padding: 4px !important;
+  border-radius: 3px;
+  box-sizing: border-box;
+  color: black;
+  background: white;
+  font-size: 15px;
+}
+
+.free_consultation_form input[type="submit"] {
+  margin-top: 10px;
+  margin-bottom:20px;
+}
+
+#sliding-header {
+  text-align: center;
+  background: #B22146;
+  padding: 11px;
+}
+
+#sliding-header h4 {
+  margin: 0 auto;
+  color: white;
+}
+
+.free_consultation_form.consultation_slider {
+  background: #B22146;
+  width: 258px;
+}
+
+.free_consultation_form.consultation_slider .form_label {
+  font-size: 13px;
+  color: white;
+}
+
+.free_consultation_form.consultation_slider .form_row input {
+  font-size: 13px;
+}
+
+.free_consultation_form.consultation_slider .form_row textarea {
+  width: 69%;
+  left: 0;
+}
+
+.free_consultation_form.consultation_slider span.wpcf7-form-control-wrap {
+  padding-right: 7px !important;
+}
+
+.free_consultation_form.consultation_slider input[type="submit"] {
+  background: white;
+  margin-top: 4px;
+  color: #5CB7E1;
+}
+
+.free_consultation_form.consultation_slider input[type="submit"]:hover {
+  background: white;
+}
+
+div.wpcf7-validation-errors {
+  max-width: 100%;
+}
+div.wpcf7-response-output {
+  margin:0 !important;
+}
+#wpfb_tab_img1 {
+  background-color: #B22146;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.pum-title {
+  color: #004b8e !important;
+}
+
+#callback_custom .wpcf7-form-control-wrap {
+  padding: 0;
+}
+
+#callback_custom .form_row {
+  float: left;
+  width: 47%;
+  margin: 0px 1.5%;
+  height: 57px;
+}
+
+#callback_custom .form_row .form_text {
+  margin-: 8px 0 0 3px;
+}
+
+#callback_custom .form_row .form_field {
+  width: 100%;
+  margin: 0 auto;
+}
+
+#callback_custom .form_field input {
+  padding: 9px;
+  border: 1px solid #adbed8;
+  width: 95%;
+  color: #4f4f4f;
+}
+
+#callback_custom .callback_custom_field .form_row {
+  margin-top: 7px;
+}
+
+#callback_custom .callback_custom_field .form_field {
+  padding: .6px 4px;
+  border: 1px solid #adbed8;
+  background: #f7f7f7;
+  width: 98%;
+  max-width: 356.8px;
+  margin: 0;
+  margin-top: 3px;
+}
+
+#callback_custom .callback_custom_field .form_field .wpcf7-select {
+  width: 100% !important;
+  margin-bottom: 7px;
+  border-color: transparent;
+}
+
+#callback_custom .form_row4 {
+  margin: 0 auto;
+  width: 272px;
+}
+
+#callback_custom .form_row4 .submit_btn {
+  transition: all .7s ease;
+  padding: 13px 70px;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 1.5px;
+  font-size: 16px;
+  background-color: #21BBB8;
+  border: 1px solid #21BBB8;
+}
+
+#callback_custom .form_row4 .submit_btn:hover {
+  background: #47A3DA;
+  color: white;
+}
+
+#callback_custom  h2 {
+  margin-bottom: 7px;
+}
+
+#consultation_custom .wpcf7-form-control-wrap {
+  padding: 0;
+}
+
+#consultation_custom .form_row {
+  float: left;
+  width: 47%;
+  margin: 5px 1.5%;
+}
+
+#consultation_custom .form_row .form_field {
+  width: 100%;
+  margin: 0 auto;
+}
+
+#consultation_custom .form_row .form_field input {
+  padding: 9px;
+  border: 1px solid #adbed8;
+  width: 95%;
+  color: #4f4f4f;
+}
+
+#consultation_custom .form_row_big {
+  width: 100%;
+}
+
+#consultation_custom .form_row_big .form_field_big {
+  width: 97%;
+  margin: 0 auto;
+}
+
+#consultation_custom .form_row_big .form_field_big input {
+  padding: 9px;
+  border: 1px solid #adbed8;
+  width: 97.6%;
+}
+
+#consultation_custom.form_area h2 {
+  margin: 10px 0;
+}
+
+#consultation_custom .bro_req_cust_field .form_field {
+  padding: 2px 4px;
+  border: 1px solid #adbed8;
+  background: #f7f7f7;
+  width: 98%;
+}
+
+#consultation_custom .bro_req_cust_field .form_field .wpcf7-select {
+  width: 100% !important;
+  margin-bottom: 7px;
+  border-color: transparent;
+}
+
+#consultation_custom .form_row4 {
+  margin: 0 auto;
+  width: 272px;
+}
+
+#consultation_custom .form_row4 .submit_btn {
+  transition: all .7s ease;
+  padding: 13px 70px;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 1.5px;
+  font-size: 16px;
+  background-color: #21BBB8;
+  border: 1px solid #21BBB8;
+  margin-top: 15px;
+}
+
+#consultation_custom .form_row4 .submit_btn:hover {
+  background: #47A3DA;
+  color: white;
+}
+
+#brochure_custom .wpcf7-form-control-wrap {
+  padding: 0;
+}
+
+#brochure_custom .form_row {
+  float: left;
+  width: 47%;
+  margin: 5px 1.5%;
+}
+
+#brochure_custom .form_row .form_field {
+  width: 100%;
+  margin: 0 auto;
+}
+
+#brochure_custom .form_row .form_field input {
+  padding: 9px;
+  border: 1px solid #adbed8;
+  width: 95%;
+  color: #4f4f4f;
+}
+
+#brochure_custom .form_row_big {
+  width: 100%;
+}
+
+#brochure_custom .form_row_big .form_field_big {
+  width: 97%;
+  margin: 0 auto;
+}
+
+#brochure_custom .form_row_big .form_field_big input {
+  padding: 9px;
+  border: 1px solid #adbed8;
+  width: 97.6%;
+}
+
+#brochure_custom.form_area h2 {
+  margin: 10px 0;
+}
+
+#brochure_custom .bro_req_cust_field .form_field {
+  padding: 2px 4px;
+  border: 1px solid #adbed8;
+  background: #f7f7f7;
+  width: 98%;
+}
+
+#brochure_custom .bro_req_cust_field .form_field .wpcf7-select {
+  width: 100% !important;
+  margin-bottom: 7px;
+  border-color: transparent;
+}
+
+#brochure_custom .form_row4 {
+  margin: 0 auto;
+  width: 272px;
+}
+
+#brochure_custom .form_row4 .submit_btn {
+  transition: all .7s ease;
+  padding: 13px 70px;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 1.5px;
+  font-size: 16px;
+  background-color: #21BBB8;
+  border: 1px solid #21BBB8;
+}
+
+#brochure_custom .form_row4 .submit_btn:hover {
+  background: #47A3DA;
+  color: white;
+}
+
+.header_top_right_first {
+  with: 100%;
+  height: 38px;
+}
+
+.header_top_right_first_mobile {
+  width: 49%;
+  float: left;
+  color: #00a7e1;
+  font-size: 13px;
+  padding-left: 10px;
+  box-sizing: border-box;
+}
+
+.header_top_right_first_mobile span {
+  color: #004b8d;
+  font-size: 16px;
+}
+
+.header_top_right_first_social {
+  width: 49%;
+  float: left;
+  box-sizing: border-box;
+  padding-left: 6px;
+}
+
+.header_top_right_first_social .social-icon {
+  margin-right: 3px;
+  float: left;
+  background: #47a3da;
+  padding: 1px 3.5px;
+  border-radius: 50%;
+  box-sizing: border-box;
+}
+
+.header_top_right_first_social .social-icon:hover {
+  background: #21BBB8;
+}
+
+.header_top_right_first_social .social-icon img {
+  width: 17px;
+}
+
+.call_area {
+  color: #666666;
+  font-size: 13px;
+  line-height: 24px;
+  padding: 0 14px 0 0;
+  margin-top: 9px;
+  text-align: right;
+}
+
+#mainpage_slider {
+  border-bottom: 2.5px solid #639edb;
+  margin-bottom: 30px;
+}
+
+#page1_bottom_social {
+  background: #e6f3fd;
+  border-top: 1px solid #cce7f9;
+}
+
+.blogdoc {
+  margin-top:20px;
+  border-bottom: 1px solid #ced0e0;
+  min-height: 215px; /*180px*/
+}
+
+.blogdoc img {
+  float: left;
+  margin: 0px 20px 20px 0;
+  border: 1px solid #ced0e0;
+  border-radius: 4px;
+}
+.blogdoc .readmore {padding: 8px 10px;background: #639edb;color: white;border-radius: 4px;}
+
+.PrimaryServiceContainer {float:left;width:100%;}
+.PrimaryService {margin:10px 1% 0 1% !important; padding:0; width:31%;float: left;
+  text-align: center;border: 1px solid #ced0e0;box-sizing:border-box;
+  border-radius:3px;}
+.PrimaryService .readmore {padding: 8px 10px;background: #639edb;color: white;border-radius: 4px;}
+.PrimaryService img{ margin-bottom:10px; }
+
+
+
+.patientStoryNew {
+  max-width: 100%;
+  border-radius: 3px;
+  margin-bottom:18px;
+}
+
+.patientStoryNew .patient_pic {
+  max-height: 71px;
+  width: 30%;
+  float: left;
+  padding-top: 8px;
+}
+.patientStoryNew .patient_pic1 {
+  max-height: 71px;
+  width: 30%;
+  float: left;
+  padding-top: 1px;
+}
+.patientStoryNew .patient_storie {
+  width: 67%;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
+.address-bar {
+  border-radius: 10px;
+  border: 1px solid #47a3da;
+  padding: 10px;
+  margin: 15px 0 0;
+  width: 95%;
+  line-height: 22px;
+}
+
+.address-bar-left {
+  width: 30%;
+  float: left;
+  margin: 0 5% 0 0;
+}
+
+.address-bar-right {
+  width: 65%;
+  float: left;
+  margin: 0 0 0 0;
+}
+
+.address-bar strong {
+  color: #47a3da;
+  line-height: 18px;
+  display: block;
+}
+
+.section_content h3 {
+  color: #47a3da;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 36px;
+  margin: 10px 0 0;
+  text-align: left;
+}
+
+.section_content p {
+  font-size: 13px;
+  line-height: 18px;
+  color: #454545;
+  text-align: justify;
+  word-wrap: break-word;
+}
+
+ul.cosmetic-link {
+  margin: 30px 0 0;
+  padding: 0 0 0;
+  clear: both;
+  display: block;
+  overflow: hidden;
+}
+
+ul.cosmetic-link li {
+  margin: 0px 0 0;
+  padding: 0 0 10px;
+  width: 33%;
+  float: left;
+}
+
+ul.cosmetic-link.odd {
+  margin: 0px 0 0;
+}
+
+.hospital_page {
+  width: 100%;
+}
+
+.hospital_page hr {
+  margin: 0 auto;
+  width: 75%;
+}
+
+.hospital_page .gdlr-shortcode-wrapper {
+  top: 0 !important;
+}
+
+.hospital_page h2 {
+  margin: 40px 0;
+}
+
+.hospital_page .hol_add p {
+  font-weight: 600;
+  letter-spacing: .5px;
+  margin-bottom: 0px !important;
+}
+
+.hospital_page .hol_cont p {
+  letter-spacing: .5px;
+  margin-bottom: 0px !important;
+  font-weight: 600;
+}
+
+.hospital_page .hol_cont a {
+  font-weight: 400;
+}
+
+@media screen and (max-width:767px){
+  .front-page-block1 { width:100%;}
+  .front-page-block2 { width:100%;}
+  .servicesbox { width:90%;  margin: 10px 5% 30px 5%;}
+  .clinic_surgeons .gdlr-blog-content p{ clear:none;}
+  .header_top_right { display: none;}
+  #mainpage_slider{ margin-top:31px;}
+
+  /*.mobile_top_bar {
+    display: none !important;
+    width: 100%;
+  }
+
+  .call_us_on {
+    display: block !important;
+    text-align: center;
+    width: 100%;
+    clear: both;
+  }
+
+  .mobile_top_bar .search_area {
+    width: 95%;
+    margin: 0 auto;
+  }
+
+  */
+  .button_hover_bottom {
+    display: block !important;
+    background: rgba(255,255,255,.7);
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    bottom: 6px;
+    padding: 7px 0;
+    box-shadow: 0px 0px 8px rgba(0,0,0,.3);
+  }
+
+  .button_hover_bottom .button_1 ,.button_hover_bottom .button_2 {
+    transition: all .7s ease;
+    color: white;
+    border: 1px solid;
+    width: 48%;
+    position: relative;
+    float: left;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 6px;
+    font-size: 15px;
+    letter-spacing: .5px;
+    border-radius: 2px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,.3);
+  }
+
+  .button_hover_bottom .button_1:hover ,.button_hover_bottom .button_2:hover {
+    color: #004b8d;
+    background: white;
+  }
+
+  .button_hover_bottom .button_1 {
+    margin: 5px .8% 5px 1.2%;
+    background: #6692ba;
+    border-color: #6692ba;
+  }
+
+  .button_hover_bottom .button_2 {
+    margin: 5px 1.2% 5px .8%;
+    background: #004b8d;
+    border-color: #004b8d;
+  }
+
+}
+
+@media screen and (max-width:959px){
+  
+  .PrimaryService { width:98%;}
+  .PrimaryService a br {display:none;} 
+}  
+
+@media screen and (max-width:1099px){
+  .gdlr-page-title-wrapper {
+    top: 0 !important;
+  }
+
+  .content-wrapper {
+    top: -94px;
+  }
+
+  .gdlr-shortcode-wrapper {
+    position: relative;
+    top: -42px;
+  }
+
+}
+
+@media screen and (min-width:768px){
+  .ba_left {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 10px;
+  }
+
+  .ba_right {
+    float: right;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 10px;
+  }
+}
+
+@media screen and (min-width:1100px){
+  .content-wrapper {
+    top: -29px;
+  }
+
+  .gdlr-shortcode-wrapper {
+    position: relative;
+    top: -42px;
+  }
+
+}
+/*-------------OTHERS------------------------------*/
+.flex-next,.flex-prev { background:rgba(0,0,0,.6) !important; 
+}
+
+#archives-3 {
+  background-color: #639edb;
+}
+
+#archives-3 .gdlr-widget-title {
+  color: white;
+  padding: 20px 0 0 20px;
+}
+
+.widget_archive ul {
+  background-color: #639edb;
+}
+
+.widget_archive ul li {
+  color: #555;
+}
+
+.widget_archive ul li a {
+  color: white;
+}
+.top_links ul {margin-left:0;}
+.top_links ul li { float:left; list-style:none; margin-right:5px;}
+
+.blg-image-front img{ width:150px; height:150px; margin-right:20px;}
+
+/*-----------------POPUP-FORM-----------*/
+
+callback_custom .form_row-popup {
+   float: left;
+   width: 100%;
+   margin: 0px 1.5%;
+   height: 57px;
+}
+
+callback_custom .form_row-popup #surname
+{
+  padding-bottom:50px;
+}
+
+/*-----------------HIDE MOBILE BAC BUTTON-----------*/
+
+.button_2 pum-trigger
+{
+  display:none;
+}
+
+#pum_popup_title_12702
+{
+  font-size:28px;
+}

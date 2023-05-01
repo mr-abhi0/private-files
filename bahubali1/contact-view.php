@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
+<head>
+    <!-- [pre]land_id =  -->
+    <script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
+    <!-- <script type="text/javascript" src="js/dr-dtime.js"></script> -->
+    <meta charset="UTF-8">
+    <title>Bahubali Capsule</title>
+    <link href="httpss://fonts.googleapis.com/css?family=Hind:400,600,700|Roboto:400,700,700i&amp;subset=latin-ext" rel="stylesheet">
+    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/jquery.bxslider.css" rel="stylesheet">
+    <link href="css/media.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+
+</head>
+
+<body>
+    <!--retarget-->
+    <div class="hidden-x">
+        <header>
+            <div class="container relative">
+                <div class="main-text"> लिंग को पत्थर जैसा सख्त और लम्बा बनाए </div>
+                <img class="logo-girl visible-mob" src="img/footer-mobile.jpg">
+                <div class="mobile-left">
+                    <div class="fire-text"> बिस्तर पर दिखाएँ अपना दम Bahubali Capsule के संग </div>
+                    <div class="order-block__right visible-mob">
+                        <div class="price clearfix">
+                            <span class="price-old"> 999 ₹ </span>
+                            <span class="price-new"> 649 ₹ </span>
+                        </div>
+                        <button class="btn-order toform"> अभी ऑर्डर करें</button>
+                    </div>
+                </div>
+                <div class="product-main">
+
+                    <img class="toform" src="img/product.png">
+                </div>
+            </div>
+            <div class="container">
+                <div class="relative">
+                    <div class="main-content">
+                        <ul class="advantages">
+                            <li class="advantages__item">
+                                <span class="advantages__icon"><img src="img/icon-1.png"></span>
+                                <span class="advantages__text"> तुरंत खड़ा करें </span>
+                            </li>
+                            <li class="advantages__item">
+                                <span class="advantages__icon"><img src="img/icon-2.png"></span>
+                                <span class="advantages__text"> बिना रुके 3 घंटे तक सेक्स </span>
+                            </li>
+                            <li class="advantages__item">
+                                <span class="advantages__icon"><img src="img/icon-3.png"></span>
+                                <span class="advantages__text"> मर्दाना ताकत बढ़ाने के लिए </span>
+                            </li>
+                            <li class="advantages__item">
+                                <span class="advantages__icon"><img src="img/icon-4.png"></span>
+                                <span class="advantages__text"> लंबाई और मोटाई में बढ़त </span>
+                            </li>
+                        </ul>
+
+
+                        <!-- 
+                        <a href="tel:0Bahubali Capsule" class="button-order-just34" style="text-decoration:none;">Call Now : Bahubali Capsule </a> -->
+
+                        <div class="order-block__right hidden-mob">
+                            <div class="price clearfix">
+                                <span class="price-old"> 999 ₹ </span>
+                                <span class="price-new"> 649 ₹ </span>
+                            </div>
+                            <button class="btn-order toform"> अभी ऑर्डर करें</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </header>
+
+        <div class="rota123">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-8">
+                        <div class="form-wrap" style="margin-top:40px;">
+                            <form method="post" action="" enctype="multipart/form-data">
+                                <div class="controls">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+
+                                                <input name="userName" required="required" placeholder="नाम" type="text" value="" class="form-control">
+
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+
+
+                                                <input name="subject" minlength="5" required="required" value="" placeholder="फ़ोन नंबर" type="text" maxlength="17" class="form-control">
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="form-group">
+
+                                                <!-- <textarea name="message" class="form-control"
+                                                    placeholder="Your Address *" rows="2" required
+                                                    data-error="Please, leave us a message."></textarea> -->
+                                                <div class="help-block with-errors"></div>
+                                                <select id="country" class="form-control" name="baddress" required="required" value="">
+                                                    <option value="Pack of 30 कैप्सूल"> Pack of 30 कैप्सूल</option>
+                                                    <option value="Pack of 60 कैप्सूल"> Pack of 60 कैप्सूल</option>
+                                                    <option value="Pack of 90 कैप्सूल"> Pack of 90 कैप्सूल</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <input type="submit" name="send" class="btn btn-success btn-send" style="background:#F00; border:1px solid #F00;" value="अभी ऑर्डर करें ">
+                                            <!---<button class="btn btn-success btn-send" style="background:#F00; border:1px solid #F00;"> अभी ऑर्डर करें  </button>--->
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+
+                        <script src="js/bootstrap.js"></script>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <section class="section-2">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-header__title1"> क्या आप बनना चाहते हैं
+                    <div class="red"> सबसे अच्छे प्रेमी?</div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-4">
+
+                    <div class="hidden-mob"><img class="features__border toform" src="img/service-img-1.webp"></div>
+                    <p style="color:#FC0; margin-top:10px;"> इस कैप्सूल में मिलाए गए नैचुरल पदार्थ जननांगों में रक्त
+                        प्रवाह बढ़ाते हैं जिससे कामेच्छा बहुत बढ़ जाती है। </p>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="hidden-mob"><img class="features__border toform" src="img/service-img-2.webp"></div>
+                    <p style="color:#FC0; margin-top:10px;"> कैप्सूल से रक्त प्रवाह बेहतर हो जाता है और लिंग का साइज़
+                        बढ़ जाता है। इससे लिंग शिथिल और खड़ी, दोनों अवस्थाओं में बड़ा हो जाता है। गहराई तक अंदर जाने से
+                        आप और आपकी पार्टनर दोनों को सेक्स में ज़्यादा आनंद आता है।</p>
+                </div>
+
+
+                <div class="col-md-4">
+                    <div class="hidden-mob"><img class="features__border toform" src="img/service-img-4.webp"></div>
+                    <p style="color:#FC0; margin-top:10px;"> इस कैप्सूल के सक्रिय अवयव स्तंभन को कई घंटों तक बनाए रखने
+                        में मदद करते हैं। ओरगाज़्म के 5 मिनट के भीतर आप दोबारा सेक्स करने को तैयार हो जाएंगे। </p>
+
+                </div>
+                <div class="col-md-12"> <a href="#" class="button-order-just toform" style="text-decoration:none; text-align:center; width:335px; margin-bottom:30px; display:block; margin:0 auto;">
+                        अभी ऑर्डर करें </a><br><br></div>
+
+
+
+
+            </div>
+
+
+        </div>
+        <!-- <img alt="" class="girl-img" src="img/girl-img.png"> -->
+    </section>
+    <section class="section-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h4 class="hadiing-h4">लंबा और कठोर लिंग। यही <br>तो औरतें चाहती हैं।</h4>
+
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class="col-md-4">
+
+                    <img class="toform" src="img/product-1.jpg">
+
+                    <!-- <a href="#" class="button-order-just toform" style="text-decoration:none; margin-bottom:30px;">Order
+                        Now </a> -->
+                    <br><br>
+
+                </div>
+
+                <div class="col-md-3">
+                    <p style="margin-top:40px;"> पेनिस बढ़ाने की आयुर्वेदिक दवा और तेल </p>
+                    <p> एक महीने में लिंग का साइज़ +5 सेमी बढ़ाएँ</p>
+                    <p> लिंग मोटा, लम्बा और बड़ा,<b> Bahubali Capsule </b> से और सेक्स के लिए हमेशा तैयार रहें
+                    </p><br><br>
+                    <h4 style="text-align:center; font-size:36px; font-weight:600; font-family:Arial, Helvetica, sans-serif;">
+                        Bahubali Capsule <span style="text-decoration:line-through;">MRP 999/-</span> <br><span style="color:#F00;"> Rs.
+                            649/-</span>
+                    </h4>
+                </div>
+
+
+                <div class="col-md-5 toform">
+                    <img src="img/lo-2.jpg" style="width:94%;">
+
+                </div>
+            </div>
+
+
+            <div class="btn-relative">
+                <button class="btn-order toform"> अभी ऑर्डर करें</button>
+            </div>
+
+        </div>
+    </section>
+    <section class="section-4">
+        <div class="container">
+
+            <div class="section-header section-4__block" style="background:none; box-shadow:none; color:#F00;">
+                <div class="section-header__logo" style="color:#F00; text-shadow:0 2px 0 #FFF;"> देर न करें!</div>
+                <div class="section-header__title1" style="text-shadow: 0 1px 0 #fff;"> आप यहीं लटके हुए हैं,</div>
+                <div class="section-header__title2" style="text-shadow: 0 1px 0 #fff;"> और दूसरे मजे ले रहे हैं</div>
+                <br>
+                <!-- <a href="tel:0Bahubali Capsule" class="button-order-just2"
+                    style="text-decoration:none; margin-bottom:30px;">Call Now : Bahubali Capsule </a> -->
+                <br><br>
+                <img src="img/line-34.png">
+            </div>
+            <div class="review-block">
+                <ul class="review">
+                    <li class="review__item">
+                        <div class="review__img">
+                            <img class="review__border" src="img/beforeafter1.jpg">
+                        </div>
+                        <div class="review__text">
+                            <div class="review__text__author" style="color:#F00;"> राकेश, उम्र 36</div>
+                            <div> विश्वास नहीं होता! मेरी बीवी इतनी ठरकी हो गई है कि ऐसा लगता है मानो हम लोग ब्लू फिल्म
+                                बना रहे हैं! मैंने हर तरह के पोज़ ट्राय किए हैं और ऐसे-ऐसे आसान किए हैं जैसे कभी सोचे भी
+                                नहीं थे। मैं तो स्वर्ग के मजे ले रहा हूँ!
+                            </div>
+                        </div>
+                    </li>
+                    <li class="review__item">
+                        <div class="review__img">
+                            <img class="review__border" src="img/banner5.jpg">
+                        </div>
+                        <div class="review__text">
+                            <div class="review__text__author" style="color:#F00;"> साक्षी , उम्र 24</div>
+                            <div> मेरे पति Bahubali Capsule खरीद कर लाए थे और मुझे इसकी भनक भी नहीं लगने दी। मेरे पति ने
+                                मेरा
+                                ऐसा काम किया कि बिस्तर चरमरा का टूट गया। आज दो महीने से हम रोज सेक्स कर रहे हैं!
+                            </div>
+                        </div>
+                    </li>
+                    <li class="review__item">
+                        <div class="review__img">
+                            <img class="review__border" src="img/beforeafter3.jpg">
+                        </div>
+                        <div class="review__text">
+                            <div class="review__text__author" style="color:#F00;"> रोबिन, उम्र 42</div>
+                            <div> नई माओं के लिए तो इससे बढ़िया चीज कोई और हो ही नहीं सकती! Bahubali Capsule उपयोग करने
+                                के बाद
+                                हर बार बिस्तर में ऐसा एहसास होता है मानो पत्नी के साथ पहली बार सेक्स कर रहा हूँ। बड़ी
+                                टाइट फीलिंग आती है!
+                            </div>
+                        </div>
+                    </li>
+
+                </ul>
+            </div>
+
+            <!-- <a href="tel:0Bahubali Capsule"
+                style=" text-align: center; font-size: 48px; display: block; font-family:Arial, Helvetica, sans-serif; font-weight: 600; color:#FFF;">Call
+                Now : Bahubali Capsule </a> -->
+        </div>
+
+    </section>
+    <footer style="background:url(img/footer-header.jpg) center; background-size:cover;">
+        <div class="container relative">
+            <div class="main-text"> लिंग को लम्बा बनाने के लिए कैप्सूल और तेल</div>
+
+            <div class="second-text"> उन पुरुषों के लिए जो हॉट सेक्स के शौकीन हैं</div>
+        </div>
+
+        <div class="container relative hidden-mob">
+
+            <div class="product-main">
+
+                <img src="img/product.png">
+
+            </div>
+            <div class="buy-block__right hidden-mob">
+                <div class="price-new price-new__big"> 649 ₹</div>
+                <div class="price-old price-old__big"> 999 ₹</div>
+
+            </div>
+        </div>
+        <div class="buy-block-bg">
+            <div class="container">
+                <div class="visible-mob">
+                    <div class="price-mob">
+                        <div class="price-mob__left">
+                            <div class="price-new price-new__big">649 ₹</div>
+                            <div class="price-old price-old__big"> 999 ₹</div>
+
+
+                            <div class="timer-block">
+                                <div class="timer-title"> ऑफर में शेष पीस:</div>
+                                <div class="timer__items js-timer"></div>
+                            </div>
+                        </div>
+                        <div class="price-mob__right">
+                            <div class="product-main">
+
+                                <img src="img/product.png">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="buy-block">
+                    <div class="buy-block__left">
+
+
+                        <div class="form-wrap">
+
+                            <form action="" enctype="multipart/form-data" method="post">
+
+
+                                <div class="controls">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+
+                                                <input name="userName" required="required" placeholder="नाम" type="text" value="" class="form-control">
+
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+
+
+                                                <input name="subject" minlength="5" required="required" value="" placeholder="फ़ोन नंबर" type="text" maxlength="17" class="form-control">
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="form-group">
+
+                                                <div class="help-block with-errors"></div>
+                                                <select id="country" class="form-control" name="baddress" required="required" value="">
+                                                    <option value="Pack of 30 कैप्सूल"> Pack of 30 कैप्सूल</option>
+                                                    <option value="Pack of 60 कैप्सूल"> Pack of 60 कैप्सूल</option>
+                                                    <option value="Pack of 90 कैप्सूल"> Pack of 90 कैप्सूल</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <input type="submit" name="send" class="btn btn-success btn-send" style="background:#F00; border:1px solid #F00;" value="अभी ऑर्डर करें ">
+                                            <!---<button class="btn btn-success btn-send" style="background:#F00; border:1px solid #F00;"> अभी ऑर्डर करें  </button>--->
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                            <script src="js/bootstrap.js"></script>
+                        </div>
+                        <br>
+                        <br>
+                        <br>
+                    </div>
+
+                    <div>
+
+                    </div>
+
+                </div>
+            </div>
+    </footer>
+
+    <section class="Aurved" style="padding-top:40px; padding-bottom:40px;">
+        <div class="container">
+
+            <div class="section-title">
+                <h2 style="text-align:center; font-weight:600; color:#F00;">Bahubali Capsule is made of Premium Quality
+                    Ingredients</h2>
+
+            </div>
+
+
+
+            <div class="row">
+
+                <div class="col-md-3">
+                    <div class="box">
+                        <img src="img/1.png" style="width:70%;">
+
+                        <p style="font-size:22px; color:#F00;">Ashwagandha<br> (अश्वगंधा) </p>
+                        <p> This herb helps increase longevity and vitality. It is prescribed for arresting the aging
+                            process, revitalizing the body in debilitated conditions, increasing immunity.</p>
+
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="box">
+                        <img src="img/2.png" style="width:70%;">
+
+                        <p style="font-size:22px; color:#F00;">Shatavari<br> (शतावरी)</p>
+                        <p> This Ayurvedic herb is known to act as an excellent aphrodisiac in men. It helps to increase
+                            the strength of the private part.</p>
+
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="box">
+                        <img src="img/3.png" style="width:70%;">
+
+                        <p style="font-size:22px; color:#F00;">Gokhru<br> (गोखरू)</p>
+                        <p> This herb helps male virility and general vitality, respectively. It is known to enhance
+                            libido and sexual wellbeing without affecting the testosterone levels.</p>
+
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="box" style="border-right:none;">
+                        <img src="img/5.png" style="width:70%;">
+
+                        <p style="font-size:22px; color:#F00;">Vanslochan<br> (वंसलोचन)</p>
+                        <p> It strengthens nerves and muscles, improves body immunity. It is a good aphrodisiac and
+                            stimulates sexual desire.</p><br>
+
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="box" style="border-bottom:none;">
+                        <img src="img/6.png" style="width:70%;">
+
+                        <p style="font-size:22px; color:#F00;">Safed Mushli<br> (सफ़ेद मूसली)</p>
+                        <p>Safed musli increases the production of testosterone, improves the sperm count and enhances
+                            sexual desire.</p>
+
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="box" style="border-bottom:none;">
+                        <img src="img/7.png" style="width:70%;">
+
+                        <p style="font-size:22px; color:#F00;">Kesar<br> (केसर) </p>
+                        <p> Kesar is a natural remedy and it has been linked to health benefits, such as improved mood,
+                            libido, and sexual function.</p>
+
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="box" style="border-bottom:none;">
+                        <img src="img/8.png" style="width:70%;">
+
+                        <p style="font-size:22px; color:#F00;">Akarkara<br>(अकरकरा)</p>
+                        <p> It helps in stimulating sexual desires and increases blood supply to the genitals. Akarkara
+                            possesses aphrodisiac, libido stimulating, and spermatogenic actions.</p>
+
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="box" style="border-right:none; border-bottom:none;">
+                        <img src="img/9.png" style="width:70%;">
+
+                        <p style="font-size:22px; color:#F00;">Shilajit suddha<br> (शुद्ध शिलाजीत)</p>
+                        <p> It increases fertility, boosts testosterone levels, enhances sex performance and is
+                            beneficial in all health problems in old age. It also supports a healthy urogenital system
+                            in men.</p>
+
+                    </div>
+                </div>
+
+
+
+
+
+
+            </div>
+        </div>
+    </section>
+
+    <footer id="footer">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="ac_footer">
+                            <span>© 2022 Copyright. All rights reserved.</span><br>
+                            <span>Disclaimer : These statements have not been evaluated by the Food and Drug
+                                Administration. This product is not
+                                intended to diagnose, treat, cure, or prevent any disease. </span><br>
+                        </div>
+                        <hr>
+                        <p style="text-align:center; color:#F00; border-top:1px solid #151515; padding-top:10px;">
+                            Bahubali Capsule</p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/jquery.bxslider.min.js"></script>
+    <script src="js/jquery.plugin.min.js"></script>
+    <script src="js/jquery.countdown.min.js"></script>
+    </div>
+    <?php
+    if (!empty($message)) {
+    ?>
+        <p class='<?php echo $type; ?>Message'>
+            <?php
+            echo '<script language="javascript">';
+            echo 'window.location = "db.php";';
+            echo '</script>';
+            ?>
+        </p>
+    <?php
+    }
+    ?>
+</body>
+
+</html>
